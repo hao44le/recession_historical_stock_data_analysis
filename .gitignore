@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+.theia
+secrets.py
+*.egg-info
+.vscode
+data/crypto_signals

@@ -1,0 +1,532 @@
+Ticker,start_date,end_date,start_price,end_price,price_diff,diff percentage,Name,Market Cap,Country,Sector,Industry
+APOG,1973/5/3,1982/12/29,0.217600003,5.137499809,4.919899806,2260.98%,Apogee Enterprises Inc. Common Stock,"?1,112,481,575 ",United States,,
+MDC,1980/3/11,1982/12/29,0.337830991,5.743128777,5.405297786,1600.00%,M.D.C. Holdings Inc. Common Stock,"?2,999,439,859 ",United States,Capital Goods,Homebuilding
+FEIM,1980/6/18,1982/12/29,0.962962985,15.33333302,14.37037003,1492.31%,Frequency Electronics Inc. Common Stock,"?79,490,182 ",United States,Capital Goods,Electrical Products
+ENZ,1980/6/12,1982/12/29,0.67860198,9.525103569,8.846501589,1303.64%,Enzo Biochem Inc. Common Stock ($0.01 Par Value),"?150,262,490 ",United States,Health Care,Medical Specialities
+WMT,1972/8/25,1982/12/29,0.064452998,0.777343988,0.71289099,1106.06%,Walmart Inc. Common Stock,"?385,000,000,000 ",United States,Consumer Services,Department/Specialty Retail Stores
+CACI,1980/3/17,1982/12/29,0.470084995,5.512821198,5.042736202,1072.73%,CACI International Inc. Class A Common Stock,"?6,806,345,572 ",United States,Technology,EDP Services
+PHM,1980/3/17,1982/12/29,0.185546994,2.171875,1.986328006,1070.53%,PulteGroup Inc. Common Stock,"?11,457,836,145 ",United States,,
+FDX,1978/4/12,1982/12/29,0.949218988,9.25,8.300781012,874.49%,FedEx Corporation Common Stock,"?54,051,096,075 ",United States,Transportation,Air Freight/Delivery Services
+KLIC,1973/2/21,1982/12/29,0.335938007,3.0625,2.726561993,811.63%,Kulicke and Soffa Industries Inc. Common Stock,"?3,051,474,963 ",Singapore,Technology,Semiconductors
+HD,1981/9/22,1982/12/29,0.029995,0.270233005,0.240238005,800.93%,Home Depot Inc. (The) Common Stock,"?331,000,000,000 ",United States,Consumer Services,RETAIL: Building Materials
+TRNS,1977/12/5,1982/12/29,0.1875,1.625,1.4375,766.67%,Transcat Inc. Common Stock,"?572,520,138 ",United States,Technology,Industrial Machinery/Components
+BA,1971/12/31,1982/12/29,0.613169014,5.074073792,4.460904777,727.52%,Boeing Company (The) Common Stock,"?101,000,000,000 ",United States,Capital Goods,Aerospace
+LMT,1977/1/3,1982/12/29,0.958589017,7.51533699,6.556747973,684.00%,Lockheed Martin Corporation Common Stock,"?122,000,000,000 ",United States,Capital Goods,Aerospace
+SCI,1980/3/17,1982/12/29,0.388889015,2.987653971,2.598764956,668.25%,Service Corporation International Common Stock,"?9,671,076,765 ",United States,Miscellaneous,Other Consumer Services
+PKI,1973/2/21,1982/12/29,0.921875,7.03125,6.109375,662.71%,PerkinElmer Inc. Common Stock,"?20,859,393,063 ",United States,Health Care,Medical Specialities
+AVT,1973/5/3,1982/12/29,2.017045021,15.15625,13.13920498,651.41%,Avnet Inc. Common Stock,"?3,814,039,339 ",United States,Technology,Electronic Components
+GD,1971/12/31,1982/12/29,0.543749988,4.0625,3.518750012,647.13%,General Dynamics Corporation Common Stock,"?65,345,108,615 ",United States,Capital Goods,Aerospace
+SYY,1973/5/8,1982/12/29,0.159722,1.1875,1.027778,643.48%,Sysco Corporation Common Stock,"?38,215,868,514 ",United States,Consumer Non-Durables,Food Distributors
+GTY,1973/5/3,1982/12/29,0.355316997,2.362344027,2.00702703,564.86%,Getty Realty Corporation Common Stock,"?1,270,682,490 ",United States,Consumer Services,Real Estate Investment Trusts
+AMOT,1980/10/20,1982/12/29,0.844443977,5.55555582,4.711111844,557.90%,Allied Motion Technologies Inc.,"?528,115,778 ",United States,Capital Goods,Electrical Products
+HAS,1980/3/17,1982/12/29,0.105350003,0.661728024,0.556378022,528.12%,Hasbro Inc. Common Stock,"?12,240,965,963 ",United States,Consumer Non-Durables,Recreational Products/Toys
+HPQ,1971/12/31,1982/12/29,0.339711994,2.089720011,1.750008017,515.14%,HP Inc. Common Stock,"?37,531,423,454 ",United States,Technology,Computer Manufacturing
+SU,1980/3/17,1982/12/29,0.085937999,0.515625,0.429687001,500.00%,Suncor Energy  Inc. Common Stock,"?46,077,756,036 ",Canada,,
+WDFC,1973/5/3,1982/12/29,1.583333015,9.208333015,7.625,481.58%,WD-40 Company Common Stock,"?2,712,151,771 ",United States,Basic Industries,Industrial Specialties
+SPGI,1973/2/21,1982/12/29,0.804687977,4.671875,3.867187023,480.58%,S&P Global Inc. Common Stock,"?138,000,000,000 ",United States,Technology,Advertising
+CSL,1973/2/21,1982/12/29,0.714843988,4.046875,3.332031012,466.12%,Carlisle Companies Incorporated Common Stock,"?11,349,775,222 ",United States,,
+SMP,1980/3/17,1982/12/29,2.333333015,13.05000019,10.71666718,459.29%,Standard Motor Products Inc. Common Stock,"?947,473,553 ",United States,Capital Goods,Auto Parts:O.E.M.
+TGT,1973/2/21,1982/12/29,0.427082986,2.21875,1.791667014,419.51%,Target Corporation Common Stock,"?98,406,739,183 ",United States,Consumer Services,Department/Specialty Retail Stores
+TPC,1973/5/3,1982/12/29,2.5,12.875,10.375,415.00%,Tutor Perini Corporation Common Stock,"?517,088,545 ",United States,Capital Goods,Engineering & Construction
+WTRG,1980/3/17,1982/12/29,0.271858007,1.395200014,1.123342007,413.21%,Essential Utilities Inc. Common Stock,"?11,834,553,697 ",United States,Public Utilities,Water Supply
+BKTI,1980/3/18,1982/12/29,24.5,122.25,97.75,398.98%,BK Technologies Corporation Common Stock,"?38,841,116 ",United States,Technology,Radio And Television Broadcasting And Communications Equipment
+TRN,1973/5/3,1982/12/29,0.339484006,1.603348017,1.263864011,372.29%,Trinity Industries Inc. Common Stock,"?2,622,776,768 ",United States,Capital Goods,Railroads
+JEF,1980/3/17,1982/12/29,0.063313,0.297573,0.23426,370.00%,Jefferies Financial Group Inc. Common Stock,"?7,228,703,267 ",United States,Finance,Investment Bankers/Brokers/Service
+LUV,1980/1/2,1982/12/29,0.203676,0.939369023,0.735693023,361.21%,Southwest Airlines Company Common Stock,"?23,196,107,942 ",United States,Transportation,Air Freight/Delivery Services
+STT,1980/3/17,1982/12/29,0.189453006,0.863281012,0.673828006,355.67%,State Street Corporation Common Stock,"?29,051,104,023 ",United States,Finance,Investment Managers
+NWLI,1975/11/17,1982/12/29,2.625,11.75,9.125,347.62%,National Western Life Group Inc. Class A Common Stock,"?755,383,155 ",United States,Finance,Life Insurance
+KMT,1973/2/21,1982/12/29,1.632812977,7.25,5.617187023,344.02%,Kennametal Inc. Common Stock,"?2,471,117,715 ",United States,Capital Goods,Industrial Machinery/Components
+WBA,1980/3/17,1982/12/29,0.208984002,0.898437977,0.689453974,329.91%,Walgreens Boots Alliance Inc. Common Stock,"?40,979,523,122 ",United States,Health Care,Medical/Nursing Services
+RGR,1973/5/3,1982/12/29,0.59375,2.53125,1.9375,326.32%,Sturm Ruger & Company Inc. Common Stock,"?1,195,161,072 ",United States,,
+NYT,1973/5/3,1982/12/29,1.135416985,4.71875,3.583333015,315.60%,New York Times Company (The) Common Stock,"?7,699,840,441 ",United States,Consumer Services,Newspapers/Magazines
+OXM,1980/3/17,1982/12/29,1.25,5.1875,3.9375,315.00%,Oxford Industries Inc. Common Stock,"?1,423,757,225 ",United States,Consumer Non-Durables,Apparel
+GSK,1980/3/28,1982/12/29,0.625,2.578125,1.953125,312.50%,GlaxoSmithKline PLC Common Stock,"?102,000,000,000 ",United Kingdom,Health Care,Biotechnology: Pharmaceutical Preparations
+GPS,1980/3/17,1982/12/29,0.037037,0.14892,0.111883,302.08%,Gap Inc. (The) Common Stock,"?5,399,410,908 ",United States,Consumer Services,Clothing/Shoe/Accessory Stores
+VMC,1973/2/21,1982/12/29,1.125,4.510416985,3.385416985,300.93%,Vulcan Materials Company (Holding Company) Common Stock,"?22,700,839,411 ",United States,,
+ALK,1980/3/17,1982/12/29,0.878684998,3.5,2.621315002,298.32%,Alaska Air Group Inc. Common Stock,"?5,876,332,921 ",United States,Transportation,Air Freight/Delivery Services
+ESP,1980/3/17,1982/12/29,1.583333015,6.270833015,4.6875,296.05%,Espey Mfg. & Electronics Corp. Common Stock,"?35,269,361 ",United States,Capital Goods,Industrial Machinery/Components
+RTX,1971/12/31,1982/12/29,0.577701986,2.261642933,1.683940947,291.49%,Raytheon Technologies Corporation Common Stock,"?142,000,000,000 ",United States,Capital Goods,Military/Government/Technical
+CAL,1980/3/17,1982/12/29,3.240741014,12.63888931,9.398148298,290.00%,Caleres Inc. Common Stock,"?723,708,366 ",United States,Consumer Non-Durables,Shoe Manufacturing
+AEM,1973/2/21,1982/12/29,3.875,14.625,10.75,277.42%,Agnico Eagle Mines Limited Common Stock,"?27,720,060,000 ",Canada,,
+DDS,1980/3/17,1982/12/29,0.583333015,2.192708015,1.609375,275.89%,Dillard's Inc. Common Stock,"?5,846,720,000 ",United States,Consumer Services,Department/Specialty Retail Stores
+VFC,1980/3/17,1982/12/29,0.301613003,1.125530005,0.823917001,273.17%,V.F. Corporation Common Stock,"?20,203,441,601 ",United States,Consumer Non-Durables,Apparel
+IDCC,1981/11/12,1982/12/29,3.25,11.75,8.5,261.54%,InterDigital Inc. Common Stock,"?1,907,691,581 ",United States,Public Utilities,Telecommunications Equipment
+NWL,1980/3/17,1982/12/29,0.53125,1.882812977,1.351562977,254.41%,Newell Brands Inc. Common Stock,"?9,412,060,000 ",United States,Consumer Non-Durables,Plastic Products
+PGR,1980/3/17,1982/12/29,0.057308,0.203017995,0.145709995,254.26%,Progressive Corporation (The) Common Stock,"?60,683,884,095 ",United States,Finance,Property-Casualty Insurers
+BP,1971/12/31,1982/12/29,2.558593988,8.9375,6.378906012,249.31%,BP p.l.c. Common Stock,"?96,588,710,782 ",United Kingdom,Energy,Integrated oil Companies
+LUB,1980/3/17,1982/12/29,2.880000114,10,7.119999886,247.22%,Luby's Inc. Common Stock,"?84,372,314 ",United States,Consumer Services,Restaurants
+MO,1971/12/31,1982/12/29,0.731770992,2.53125,1.799479008,245.91%,Altria Group Inc.,"?92,480,225,117 ",United States,Consumer Non-Durables,Farming/Seeds/Milling
+CRS,1973/2/21,1982/12/29,2.890625,9.90625,7.015625,242.70%,Carpenter Technology Corporation Common Stock,"?1,735,287,447 ",United States,Basic Industries,Steel/Iron Ore
+SIGI,1980/3/17,1982/12/29,0.888889015,3.041666985,2.15277797,242.19%,Selective Insurance Group Inc. Common Stock,"?4,965,350,198 ",United States,Finance,Property-Casualty Insurers
+LEN,1980/3/17,1982/12/29,1.208619952,4.097016811,2.888396859,238.98%,Lennar Corporation Class A Common Stock,"?24,646,351,414 ",United States,Consumer Services,Building operators
+CAG,1980/3/17,1982/12/29,0.486380994,1.64288795,1.156506956,237.78%,ConAgra Brands Inc. Common Stock,"?14,837,050,820 ",United States,Consumer Non-Durables,Packaged Foods
+ASA,1978/1/3,1982/12/29,7.208333015,23.83333206,16.62499905,230.64%,ASA  Gold and Precious Metals Limited,"?448,297,392 ",United States,Basic Industries,Precious Metals
+JWN,1980/3/17,1982/12/29,1.84375,6.0625,4.21875,228.81%,Nordstrom Inc. Common Stock,"?3,882,984,000 ",United States,Consumer Services,Clothing/Shoe/Accessory Stores
+BLL,1973/2/21,1982/12/29,0.279296994,0.917968988,0.638671994,228.67%,Ball Corporation Common Stock,"?28,224,110,751 ",United States,Consumer Durables,Containers/Packaging
+SHW,1980/3/17,1982/12/29,0.283854008,0.914062977,0.630208969,222.02%,Sherwin-Williams Company (The) Common Stock,"?62,450,649,694 ",United States,Basic Industries,Paints/Coatings
+TFX,1980/3/17,1982/12/29,1.527778029,4.916666985,3.388888955,221.82%,Teleflex Incorporated Common Stock,"?15,793,319,917 ",United States,Health Care,Medical/Dental Instruments
+SYK,1980/3/17,1982/12/29,0.096450999,0.307292014,0.210841015,218.60%,Stryker Corporation Common Stock,"?92,766,504,797 ",United States,Health Care,Medical/Dental Instruments
+FLO,1980/3/17,1982/12/29,0.079000004,0.251451999,0.172451995,218.29%,Flowers Foods Inc. Common Stock,"?5,294,761,649 ",United States,Consumer Non-Durables,Farming/Seeds/Milling
+STC,1973/2/21,1982/12/29,2.041666985,6.416666985,4.375,214.29%,Stewart Information Services Corporation Common Stock,"?1,716,877,120 ",United States,Finance,Specialty Insurers
+WST,1980/3/17,1982/12/29,0.78125,2.453125,1.671875,214.00%,West Pharmaceutical Services Inc. Common Stock,"?26,641,091,895 ",United States,Health Care,Medical/Dental Instruments
+UFI,1980/3/17,1982/12/29,1.365332961,4.266666889,2.901333928,212.50%,Unifi Inc. New Common Stock,"?331,127,178 ",United States,,
+SEB,1973/2/22,1982/12/29,8.25,25.375,17.125,207.58%,Seaboard Corporation Common Stock,"?4,426,444,992 ",United States,,
+HST,1980/3/17,1982/12/29,3.314537048,10.09625626,6.781719208,204.61%,Host Hotels & Resorts Inc. Common Stock,"?12,454,777,674 ",United States,Consumer Services,Real Estate Investment Trusts
+PKOH,1973/2/21,1982/12/29,4.6875,14.25,9.5625,204.00%,Park-Ohio Holdings Corp. Common Stock,"?194,671,406 ",United States,Capital Goods,Office Equipment/Supplies/Services
+SPB,1979/1/2,1982/12/29,204.9425659,622.1065063,417.1639404,203.55%,Spectrum Brands Holdings Inc. Common Stock,"?3,438,196,484 ",United States,,
+OLN,1973/2/21,1982/12/29,2.460316896,7.460317135,5.000000238,203.23%,Olin Corporation Common Stock,"?6,962,899,612 ",United States,Basic Industries,Industrial Specialties
+PNC,1975/11/17,1982/12/29,2.625,7.9375,5.3125,202.38%,PNC Financial Services Group Inc. (The) Common Stock,"?75,991,391,498 ",United States,Finance,Major Banks
+MSA,1973/2/22,1982/12/29,0.777778029,2.34722209,1.56944406,201.79%,MSA Safety Incorporated Common Stock,"?5,052,583,503 ",United States,Miscellaneous,Diversified Manufacture
+MATX,1973/5/3,1982/12/29,0.958999991,2.827052116,1.868052125,194.79%,Matson Inc. Common Stock,"?4,298,814,082 ",United States,Transportation,Marine Transportation
+TER,1973/2/21,1982/12/29,1.210937977,3.53125,2.320312023,191.61%,Teradyne Inc. Common Stock,"?17,467,953,297 ",United States,Capital Goods,Electrical Products
+EFX,1980/3/17,1982/12/29,0.765625,2.1875,1.421875,185.71%,Equifax Inc. Common Stock,"?26,524,100,848 ",United States,Technology,Advertising
+RAD,1980/3/17,1982/12/29,27.1875,76.66666412,49.47916412,181.99%,Rite Aid Corporation Common Stock,"?516,542,931 ",United States,Health Care,Medical/Nursing Services
+SCX,1973/2/21,1982/12/29,9.6875,27.25,17.5625,181.29%,L.S. Starrett Company (The) Common Stock,"?51,633,208 ",United States,Consumer Durables,Home Furnishings
+HRB,1973/2/21,1982/12/29,0.460938007,1.292968988,0.832030982,180.51%,H&R Block Inc. Common Stock,"?3,940,689,579 ",United States,Miscellaneous,Other Consumer Services
+HSY,1980/3/17,1982/12/29,0.84375,2.354166985,1.510416985,179.01%,The Hershey Company Common Stock,"?41,871,390,431 ",United States,Consumer Non-Durables,Specialty Foods
+MLKN,1980/3/17,1982/12/29,0.770833015,2.125,1.354166985,175.68%,MillerKnoll Inc. Common Stock,"?2,640,441,487 ",United States,Capital Goods,Wholesale Distributors
+CVS,1973/2/21,1982/12/29,1.625,4.382812977,2.757812977,169.71%,CVS Health Corporation Common Stock,"?134,000,000,000 ",United States,Health Care,Managed Health Care
+INTG,1980/3/17,1982/12/29,0.962962985,2.592592955,1.62962997,169.23%,Intergroup Corporation (The) Common Stock,"?123,412,795 ",United States,Consumer Services,Hotels/Resorts
+HELE,1976/7/8,1982/12/29,0.322917014,0.854166985,0.53124997,164.52%,Helen of Troy Limited Common Stock,"?4,822,102,846 ",Bermuda,Consumer Durables,Home Furnishings
+CMCSA,1980/3/17,1982/12/29,0.097545996,0.256058991,0.158512995,162.50%,Comcast Corporation Class A Common Stock,"?209,000,000,000 ",United States,Consumer Services,Television Services
+MUX,1980/5/7,1982/12/29,0.307999998,0.808000028,0.50000003,162.34%,McEwen Mining Inc. Common Stock,"?429,294,292 ",Canada,Basic Industries,Precious Metals
+ALCO,1973/5/3,1982/12/29,3.625,9.5,5.875,162.07%,Alico Inc. Common Stock,"?250,809,528 ",United States,,
+OMI,1980/3/17,1982/12/29,0.537723005,1.40466404,0.866941035,161.22%,Owens & Minor Inc. Common Stock,"?3,052,327,513 ",United States,Health Care,Medical Specialities
+MAS,1980/3/17,1982/12/29,2.40279007,6.260983944,3.858193874,160.57%,Masco Corporation Common Stock,"?12,591,329,967 ",United States,Capital Goods,Building Products
+DCO,1973/5/3,1982/12/29,2.807727098,7.284046173,4.476319075,159.43%,Ducommun Incorporated Common Stock,"?611,418,865 ",United States,Capital Goods,Military/Government/Technical
+FRT,1973/5/3,1982/12/29,3.375,8.75,5.375,159.26%,Federal Realty Investment Trust Common Stock,"?9,331,815,941 ",United States,Consumer Services,Real Estate Investment Trusts
+TSN,1980/3/17,1982/12/29,2,5.111111164,3.111111164,155.56%,Tyson Foods Inc. Common Stock,"?33,462,840,256 ",United States,Consumer Non-Durables,Meat/Poultry/Fish
+PKE,1980/3/17,1982/12/29,1.037037015,2.629630089,1.592593074,153.57%,Park Aerospace Corp. Common Stock,"?280,891,223 ",United States,,
+TARO,1982/9/14,1982/12/29,0.1875,0.46875,0.28125,150.00%,Taro Pharmaceutical Industries Ltd. Ordinary Shares,"?1,784,906,474 ",Israel,Health Care,Biotechnology: Pharmaceutical Preparations
+RRC,1980/6/19,1982/12/29,7.5,18.75,11.25,150.00%,Range Resources Corporation Common Stock,"?6,852,496,205 ",United States,Energy,Oil & Gas Production
+WWW,1980/3/17,1982/12/29,0.510288,1.27572,0.765432,150.00%,Wolverine World Wide Inc. Common Stock,"?1,797,173,730 ",United States,Consumer Non-Durables,Shoe Manufacturing
+CAJ,1980/3/17,1982/12/29,0.908333004,2.266666889,1.358333886,149.54%,Canon Inc. American Depositary Shares,"?23,299,794,791 ",Japan,Miscellaneous,Industrial Machinery/Components
+VIRC,1980/3/18,1982/12/29,1.060243964,2.634546041,1.574302077,148.48%,Virco Manufacturing Corporation Common Stock,"?46,695,867 ",United States,Consumer Durables,Industrial Specialties
+RAND,1980/3/17,1982/12/29,3.45600009,8.524800301,5.068800211,146.67%,Rand Capital Corporation Common Stock,"?37,424,805 ",United States,Finance,Finance/Investors Services
+KR,1971/12/31,1982/12/29,1.015625,2.484375,1.46875,144.62%,Kroger Company (The) Common Stock,"?40,961,087,470 ",United States,Consumer Services,Food Chains
+ADI,1980/3/17,1982/12/29,0.727999985,1.773437977,1.045437992,143.60%,Analog Devices Inc. Common Stock,"?77,722,763,108 ",United States,Technology,Semiconductors
+BSET,1980/3/17,1982/12/29,7.039999962,17.06666756,10.02666759,142.42%,Bassett Furniture Industries Incorporated Common Stock,"?172,929,249 ",United States,Consumer Durables,Home Furnishings
+MDT,1973/5/2,1982/12/29,0.351563007,0.851562977,0.49999997,142.22%,Medtronic plc. Ordinary Shares,"?140,000,000,000 ",United States,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+NPK,1980/3/17,1982/12/29,8.388889313,20.16666794,11.77777863,140.40%,National Presto Industries Inc. Common Stock,"?556,508,048 ",United States,Consumer Non-Durables,Military/Government/Technical
+TGNA,1980/3/17,1982/12/29,2.303251982,5.514725208,3.211473227,139.43%,TEGNA Inc,"?4,891,683,461 ",United States,Consumer Services,Broadcasting
+WMK,1980/3/17,1982/12/29,4.839506149,11.5555563,6.716050148,138.78%,Weis Markets Inc. Common Stock,"?2,004,471,972 ",United States,Consumer Services,Food Chains
+DLX,1980/3/17,1982/12/29,3.372890949,8.019984245,4.647093296,137.78%,Deluxe Corporation Common Stock,"?1,327,352,500 ",United States,Technology,Advertising
+LANC,1980/3/17,1982/12/29,1.366667032,3.233333111,1.866666079,136.59%,Lancaster Colony Corporation Common Stock,"?4,309,227,500 ",United States,Consumer Non-Durables,Packaged Foods
+HVT,1980/3/17,1982/12/29,0.733332992,1.733332992,1,136.36%,Haverty Furniture Companies Inc. Common Stock,"?478,580,026 ",United States,Consumer Services,Other Specialty Stores
+FUL,1973/2/21,1982/12/29,0.833333015,1.96875,1.135416985,136.25%,H. B. Fuller Company Common Stock,"?3,286,899,985 ",United States,Basic Industries,Home Furnishings
+L,1980/3/17,1982/12/29,0.672222018,1.583333015,0.911110997,135.54%,Loews Corporation Common Stock,"?14,907,038,727 ",United States,Finance,Property-Casualty Insurers
+RGLD,1981/6/9,1982/12/29,2.875,6.75,3.875,134.78%,Royal Gold Inc. Common Stock,"?8,562,649,799 ",United States,,
+GIS,1980/3/17,1982/12/29,1.065410018,2.498871088,1.43346107,134.55%,General Mills Inc. Common Stock,"?38,460,459,192 ",United States,Consumer Services,Food Chains
+VOLT,1980/3/17,1982/12/29,1.753085971,4.111111164,2.358025193,134.51%,Volt Information Sciences Inc. Common Stock,"?66,297,738 ",United States,Technology,Diversified Commercial Services
+VLGEA,1973/2/21,1982/12/29,0.375,0.875,0.5,133.33%,Village Super Market Inc. Class A Common Stock,"?334,956,009 ",United States,Consumer Services,Food Chains
+FSS,1980/3/17,1982/12/29,1.549378037,3.610485077,2.061107039,133.03%,Federal Signal Corporation Common Stock,"?2,119,198,961 ",United States,Technology,Industrial Machinery/Components
+LOW,1980/3/17,1982/12/29,0.464843988,1.082031012,0.617187023,132.77%,Lowe's Companies Inc. Common Stock,"?150,000,000,000 ",United States,Consumer Services,RETAIL: Building Materials
+TSRI,1978/4/26,1982/12/29,0.890625,2.0625,1.171875,131.58%,TSR Inc. Common Stock,"?17,952,867 ",United States,Technology,EDP Services
+SON,1980/3/17,1982/12/29,1.542207956,3.544372082,2.002164125,129.82%,Sonoco Products Company Common Stock,"?5,303,380,560 ",United States,Basic Industries,Containers/Packaging
+CTG,1980/3/25,1982/12/29,1.041666985,2.375,1.333333015,128.00%,Computer Task Group Inc. Common Stock,"?139,618,770 ",United States,Technology,EDP Services
+VMI,1973/2/21,1982/12/29,0.5625,1.28125,0.71875,127.78%,Valmont Industries Inc. Common Stock,"?4,736,257,995 ",United States,Capital Goods,Construction/Ag Equipment/Trucks
+FLXS,1980/3/17,1982/12/29,2.916666985,6.583333015,3.666666031,125.71%,Flexsteel Industries Inc. Common Stock,"?124,370,263 ",United States,Consumer Durables,Home Furnishings
+MTB,1980/3/17,1982/12/29,0.537500024,1.212499976,0.674999952,125.58%,M&T Bank Corporation Common Stock,"?21,694,567,795 ",United States,Finance,Major Banks
+ASB,1980/3/17,1982/12/29,0.662316024,1.49021101,0.827894986,125.00%,Associated Banc-Corp Common Stock,"?3,352,643,994 ",United States,Finance,Major Banks
+ADP,1980/3/17,1982/12/29,0.817847013,1.83396101,1.016113997,124.24%,Automatic Data Processing Inc. Common Stock,"?86,268,896,526 ",United States,Miscellaneous,Business Services
+ABM,1980/3/17,1982/12/29,0.93333298,2.091666937,1.158333957,124.11%,ABM Industries Incorporated Common Stock,"?2,972,217,946 ",United States,Technology,Diversified Commercial Services
+PEI,1973/5/3,1982/12/29,3.77777791,8.444443703,4.666665792,123.53%,Pennsylvania Real Estate Investment Trust Common Stock,"?68,811,802 ",United States,Consumer Services,Real Estate Investment Trusts
+CVX,1971/12/31,1982/12/29,3.585937977,8,4.414062023,123.09%,Chevron Corporation Common Stock,"?332,000,000,000 ",United States,Energy,Integrated oil Companies
+HMC,1980/3/17,1982/12/29,0.893750012,1.971874952,1.07812494,120.63%,Honda Motor Company Ltd. Common Stock,"?45,170,148,908 ",Japan,Capital Goods,Auto Manufacturing
+BMY,1972/6/1,1982/12/29,1.866374969,4.111973763,2.245598793,120.32%,Bristol-Myers Squibb Company Common Stock,"?148,000,000,000 ",United States,Health Care,Biotechnology: Pharmaceutical Preparations
+AA,1971/12/31,1982/12/29,4.367952824,9.612000465,5.244047642,120.06%,Alcoa Corporation Common Stock ,"?15,271,647,746 ",,Basic Industries,Metal Fabrications
+KOSS,1980/3/17,1982/12/29,0.527778029,1.15625,0.628471971,119.08%,Koss Corporation Common Stock,"?62,387,962 ",United States,Consumer Non-Durables,Consumer Electronics/Appliances
+AIG,1973/1/2,1982/12/29,24.70410538,54.10765457,29.40354919,119.02%,American International Group Inc. New Common Stock,"?47,780,217,208 ",United States,Finance,Life Insurance
+HAL,1972/6/1,1982/12/29,3.946057081,8.636652946,4.690595865,118.87%,Halliburton Company Common Stock,"?33,031,488,965 ",United States,Energy,Oil & Gas Production
+ABT,1980/3/17,1982/12/29,0.501505971,1.094195962,0.592689991,118.18%,Abbott Laboratories Common Stock,"?205,000,000,000 ",United States,Health Care,Medical/Dental Instruments
+USB,1973/5/3,1982/12/29,0.461111009,1,0.538888991,116.87%,U.S. Bancorp Common Stock,"?79,017,769,093 ",United States,Finance,Major Banks
+MAT,1976/6/17,1982/12/29,2.116266966,4.573866844,2.457599878,116.13%,Mattel Inc. Common Stock,"?7,978,256,385 ",United States,Consumer Non-Durables,Recreational Products/Toys
+LEG,1980/3/17,1982/12/29,0.494792014,1.067708015,0.572916001,115.79%,Leggett & Platt Incorporated Common Stock,"?4,893,794,168 ",United States,Consumer Durables,Home Furnishings
+SEIC,1981/3/25,1982/12/29,0.190103993,0.408854008,0.218750015,115.07%,SEI Investments Company Common Stock,"?7,663,430,885 ",United States,Finance,Investment Bankers/Brokers/Service
+AIKI,1980/3/18,1982/12/29,13620.46191,29056.98633,15436.52441,113.33%,AIkido Pharma Inc. Common Stock,"?36,751,334 ",United States,Consumer Durables,Specialty Chemicals
+PATK,1980/3/17,1982/12/29,0.296296,0.629630029,0.333334029,112.50%,Patrick Industries Inc. Common Stock,"?1,527,762,157 ",United States,Consumer Services,Other Specialty Stores
+KAMN,1980/3/17,1982/12/29,2.673610926,5.677083015,3.00347209,112.34%,Kaman Corporation Common Stock,"?1,158,508,897 ",United States,Capital Goods,Military/Government/Technical
+GPC,1980/3/17,1982/12/29,4.197531223,8.888889313,4.691358089,111.76%,Genuine Parts Company Common Stock,"?16,999,519,786 ",United States,Capital Goods,Automotive Aftermarket
+AP,1973/2/21,1982/12/29,5.625,11.875,6.25,111.11%,Ampco-Pittsburgh Corporation Common Stock,"?122,200,205 ",United States,Capital Goods,Metal Fabrications
+WDC,1978/10/31,1982/12/29,1.125,2.375,1.25,111.11%,Western Digital Corporation Common Stock,"?14,322,242,534 ",United States,Technology,Electronic Components
+CW,1980/3/17,1982/12/29,2.625,5.53125,2.90625,110.71%,Curtiss-Wright Corporation Common Stock,"?5,723,751,140 ",United States,Capital Goods,Industrial Machinery/Components
+CBRL,1981/11/5,1982/12/29,0.585277021,1.229081035,0.643804014,110.00%,Cracker Barrel Old Country Store Inc Common Stock,"?2,589,913,641 ",United States,Consumer Services,Restaurants
+NBR,1973/2/21,1982/12/29,65.625,137.5,71.875,109.52%,Nabors Industries Ltd.,"?1,365,673,036 ",Bermuda,Energy,Oil & Gas Production
+SPXC,1980/3/17,1982/12/29,1.337823987,2.801561117,1.46373713,109.41%,SPX Corporation Common Stock,"?2,189,065,993 ",United States,Capital Goods,Industrial Machinery/Components
+LEE,1980/3/17,1982/12/29,23.125,47.96875,24.84375,107.43%,Lee Enterprises Incorporated Common Stock,"?180,198,948 ",United States,Consumer Services,Newspapers/Magazines
+WEYS,1980/3/17,1982/12/29,0.9375,1.944443941,1.006943941,107.41%,Weyco Group Inc. Common Stock,"?219,871,272 ",United States,Consumer Non-Durables,Shoe Manufacturing
+SENEB,1980/3/17,1982/12/29,1.078125,2.234375,1.15625,107.25%,Seneca Foods Corp. Class B Common Stock,"?430,541,235 ",United States,Consumer Non-Durables,Packaged Foods
+NKE,1980/12/2,1982/12/29,0.179688007,0.371093988,0.191405982,106.52%,Nike Inc. Common Stock,"?192,000,000,000 ",United States,Consumer Non-Durables,Shoe Manufacturing
+MSI,1971/12/31,1982/12/29,4.290137768,8.844092369,4.553954601,106.15%,Motorola Solutions Inc. Common Stock,"?36,018,612,228 ",United States,Technology,Radio And Television Broadcasting And Communications Equipment
+FONR,1981/10/29,1982/12/29,120,245,125,104.17%,Fonar Corporation Common Stock,"?117,600,736 ",United States,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+PBI,1972/6/1,1982/12/29,1.398437977,2.84375,1.445312023,103.35%,Pitney Bowes Inc. Common Stock,"?848,047,167 ",United States,Transportation,Oil Refining/Marketing
+ANAT,1975/11/17,1982/12/29,7.5,15.25,7.75,103.33%,American National Group Inc. Common Stock,"?5,073,076,896 ",United States,Finance,Life Insurance
+PNR,1973/5/3,1982/12/29,1.035369992,2.098723888,1.063353896,102.70%,Pentair plc. Ordinary Share,"?8,862,506,107 ",Switzerland,Capital Goods,Fluid Controls
+SEE,1980/3/17,1982/12/29,0.220703006,0.445313007,0.224610001,101.77%,Sealed Air Corporation Common Stock,"?9,050,980,956 ",United States,Basic Industries,Containers/Packaging
+CSPI,1982/1/29,1982/12/29,6.292261124,12.49060917,6.198348045,98.51%,CSP Inc. Common Stock,"?36,374,374 ",United States,Technology,EDP Services
+AMD,1980/3/17,1982/12/29,3.145833015,6.21875,3.072916985,97.68%,Advanced Micro Devices Inc. Common Stock,"?172,000,000,000 ",United States,Technology,Semiconductors
+BKH,1973/2/22,1982/12/29,1.888888955,3.72222209,1.833333135,97.06%,Black Hills Corporation Common Stock,"?4,625,581,901 ",United States,Public Utilities,Electric Utilities: Central
+MTRN,1980/3/17,1982/12/29,8.375,16.5,8.125,97.01%,Materion Corporation,"?1,692,295,184 ",United States,,
+R,1980/1/2,1982/12/29,8.083333015,15.75,7.666666985,94.85%,Ryder System Inc. Common Stock,"?4,102,769,621 ",United States,Miscellaneous,Rental/Leasing Companies
+CHE,1973/5/3,1982/12/29,9,17.5,8.5,94.44%,Chemed Corp,"?7,002,358,731 ",United States,Health Care,Medical/Nursing Services
+PPG,1980/3/17,1982/12/29,1.6875,3.28125,1.59375,94.44%,PPG Industries Inc. Common Stock,"?27,786,516,608 ",United States,Basic Industries,Paints/Coatings
+ACU,1980/3/17,1982/12/29,7.425000191,14.34375,6.918749809,93.18%,Acme United Corporation. Common Stock,"?117,861,237 ",United States,Consumer Durables,Home Furnishings
+HUM,1981/12/31,1982/12/29,9.722222328,18.75,9.027777672,92.86%,Humana Inc. Common Stock,"?53,775,453,393 ",United States,Health Care,Medical Specialities
+BTI,1980/4/14,1982/12/29,0.640625,1.234375,0.59375,92.68%,British American Tobacco  Industries p.l.c. Common Stock ADR,"?90,492,964,728 ",United Kingdom,Consumer Non-Durables,Farming/Seeds/Milling
+VTRS,1980/3/17,1982/12/29,1.444443941,2.77777791,1.333333969,92.31%,Viatris Inc. Common Stock,"?12,035,283,986 ",United States,Consumer Durables,Specialty Chemicals
+MYE,1980/3/17,1982/12/29,0.292122006,0.561773002,0.269650996,92.31%,Myers Industries Inc. Common Stock,"?580,551,904 ",United States,Capital Goods,Auto Parts:O.E.M.
+TR,1980/3/17,1982/12/29,0.330368996,0.632740021,0.302371025,91.53%,Tootsie Roll Industries Inc. Common Stock,"?2,263,853,773 ",United States,Consumer Non-Durables,Specialty Foods
+TM,1980/3/17,1982/12/29,3.291227102,6.289254189,2.998027086,91.09%,Toyota Motor Corporation Common Stock,"?216,000,000,000 ",Japan,Capital Goods,Auto Manufacturing
+AMAT,1980/3/17,1982/12/29,0.095486,0.179688007,0.084202006,88.18%,Applied Materials Inc. Common Stock,"?110,000,000,000 ",United States,Capital Goods,Industrial Machinery/Components
+CHD,1980/3/17,1982/12/29,0.172839999,0.324074,0.151234001,87.50%,Church & Dwight Company Inc. Common Stock,"?23,133,367,983 ",United States,Consumer Non-Durables,Package Goods/Cosmetics
+ERIC,1981/8/24,1982/12/29,0.78125,1.460937977,0.679687977,87.00%,Ericsson American Depositary Shares,"?26,641,139,432 ",Sweden,Technology,Computer Software: Prepackaged Software
+DE,1972/6/1,1982/12/29,2.677083015,5,2.322916985,86.77%,Deere & Company Common Stock,"?112,000,000,000 ",United States,Capital Goods,Industrial Machinery/Components
+Y,1980/1/2,1982/12/29,15.9852457,29.72956848,13.74432278,85.98%,Alleghany Corporation Common Stock,"?8,100,545,077 ",United States,Finance,Property-Casualty Insurers
+JPM,1980/3/17,1982/12/29,5.037036896,9.333333015,4.29629612,85.29%,JP Morgan Chase & Co. Common Stock,"?379,000,000,000 ",United States,Finance,Major Banks
+SXT,1980/3/17,1982/12/29,1.833333015,3.388889074,1.555556059,84.85%,Sensient Technologies Corporation Common Stock,"?3,152,870,129 ",United States,Basic Industries,Major Chemicals
+SUP,1980/3/17,1982/12/29,0.513294995,0.943799973,0.430504978,83.87%,Superior Industries International Inc. Common Stock (DE),"?115,640,800 ",United States,Capital Goods,Auto Parts:O.E.M.
+K,1973/2/21,1982/12/29,1.8125,3.328125,1.515625,83.62%,Kellogg Company Common Stock,"?21,399,097,296 ",United States,Consumer Non-Durables,Packaged Foods
+FARM,1980/3/17,1982/12/29,1.674999952,3.075000048,1.400000095,83.58%,Farmer Brothers Company Common Stock,"?109,073,096 ",United States,Consumer Non-Durables,Specialty Foods
+TDS,1981/12/15,1982/12/29,1.571604013,2.881273985,1.309669971,83.33%,Telephone and Data Systems Inc. Common Shares,"?2,143,915,286 ",United States,Public Utilities,Telecommunications Equipment
+PHI,1973/5/3,1982/12/29,0.339673996,0.611413002,0.271739006,80.00%,PLDT Inc. Sponsored ADR,"?7,685,280,000 ",Philippines,Public Utilities,Telecommunications Equipment
+KMB,1980/3/17,1982/12/29,2.501797915,4.49424696,1.992449045,79.64%,Kimberly-Clark Corporation Common Stock,"?41,514,204,873 ",United States,Basic Industries,Paper
+EBF,1980/3/17,1982/12/29,1.083333015,1.92592597,0.842592955,77.78%,Ennis Inc. Common Stock,"?475,101,572 ",United States,Consumer Services,Office Equipment/Supplies/Services
+ZION,1980/3/17,1982/12/29,1.833333015,3.25,1.416666985,77.27%,Zions Bancorporation N.A. Common Stock,"?9,465,816,596 ",United States,Finance,Major Banks
+ORI,1980/3/17,1982/12/29,0.81862098,1.442819953,0.624198973,76.25%,Old Republic International Corporation Common Stock,"?7,699,258,837 ",United States,Finance,Specialty Insurers
+TRV,1975/11/17,1982/12/29,8.71875,15.34375,6.625,75.99%,The Travelers Companies Inc. Common Stock,"?40,680,798,305 ",United States,Finance,Property-Casualty Insurers
+HNI,1980/3/17,1982/12/29,1.6875,2.96875,1.28125,75.93%,HNI Corporation Common Stock,"?1,553,833,043 ",United States,Consumer Durables,Office Equipment/Supplies/Services
+SXI,1973/2/21,1982/12/29,2.3125,4.0625,1.75,75.68%,Standex International Corporation Common Stock,"?1,279,570,811 ",United States,Capital Goods,Industrial Machinery/Components
+CTS,1980/3/17,1982/12/29,2.854166985,5,2.145833015,75.18%,CTS Corporation Common Stock,"?1,103,790,759 ",United States,Capital Goods,Industrial Machinery/Components
+CPK,1980/3/17,1982/12/29,1.62962997,2.85185194,1.222221971,75.00%,Chesapeake Utilities Corporation Common Stock,"?2,449,100,382 ",United States,Public Utilities,Oil & Gas Production
+UHS,1981/7/9,1982/12/29,1.265625,2.1875,0.921875,72.84%,Universal Health Services Inc. Common Stock,"?11,169,951,287 ",United States,Health Care,Hospital/Nursing Management
+WEC,1980/3/17,1982/12/29,2.208333015,3.8125,1.604166985,72.64%,WEC Energy Group Inc. Common Stock,"?29,650,845,914 ",United States,Public Utilities,Power Generation
+KELYA,1980/3/17,1982/12/29,6.144000053,10.58133316,4.437333107,72.22%,Kelly Services Inc. Class A Common Stock,"?758,447,132 ",United States,Technology,Diversified Commercial Services
+ARW,1980/3/17,1982/12/29,4.875,8.375,3.5,71.79%,Arrow Electronics Inc. Common Stock,"?7,708,887,267 ",United States,Technology,Electronic Components
+DOV,1980/3/17,1982/12/29,1.471596003,2.524233103,1.0526371,71.53%,Dover Corporation Common Stock,"?21,059,342,997 ",United States,Capital Goods,Industrial Machinery/Components
+WOR,1980/3/17,1982/12/29,2.037036896,3.481481075,1.44444418,70.91%,Worthington Industries Inc. Common Stock,"?2,910,901,703 ",United States,Consumer Durables,Aerospace
+IPG,1980/3/17,1982/12/29,0.784721971,1.340278029,0.555556059,70.80%,Interpublic Group of Companies Inc. (The) Common Stock,"?12,819,457,098 ",United States,Technology,Advertising
+HRL,1980/3/17,1982/12/29,0.259766012,0.443358988,0.183592975,70.68%,Hormel Foods Corporation Common Stock,"?27,280,417,036 ",United States,Consumer Non-Durables,Meat/Poultry/Fish
+AAME,1980/3/17,1982/12/29,3.849999905,6.550000191,2.700000286,70.13%,Atlantic American Corporation Common Stock,"?45,240,439 ",United States,Finance,Life Insurance
+CFR,1980/3/17,1982/12/29,3.234375,5.5,2.265625,70.05%,Cullen/Frost Bankers Inc. Common Stock,"?8,549,707,671 ",United States,Finance,Major Banks
+FHN,1980/3/17,1982/12/29,1.074512005,1.817384958,0.742872953,69.14%,First Horizon Corporation Common Stock,"?12,487,027,831 ",United States,Finance,Major Banks
+UDR,1980/3/17,1982/12/29,2.208333015,3.708333015,1.5,67.92%,UDR Inc. Common Stock,"?18,007,413,671 ",United States,Consumer Services,Real Estate Investment Trusts
+LGL,1980/3/17,1982/12/29,2.513710976,4.189518929,1.675807953,66.67%,LGL Group Inc. (The) Common Stock,"?54,955,561 ",United States,Capital Goods,Industrial Machinery/Components
+SOR,1980/3/17,1982/12/29,16.5,27.5,11,66.67%,Source Capital Inc. Common Stock,"?338,720,547 ",United States,Finance,Investment Managers
+PFE,1972/6/1,1982/12/29,0.815346003,1.358909965,0.543563962,66.67%,Pfizer Inc. Common Stock,"?267,000,000,000 ",United States,Health Care,Biotechnology: Pharmaceutical Preparations
+CBSH,1980/3/17,1982/12/29,0.747797012,1.246327996,0.498530984,66.67%,Commerce Bancshares Inc. Common Stock,"?8,352,963,321 ",United States,Finance,Major Banks
+GFI,1980/3/17,1982/12/29,8.613264084,14.31955242,5.706288338,66.25%,Gold Fields Limited American Depositary Shares,"?14,292,249,303 ",South Africa,Basic Industries,Precious Metals
+NUE,1980/3/17,1982/12/29,0.796875,1.322916985,0.526041985,66.01%,Nucor Corporation Common Stock,"?33,898,967,743 ",United States,Basic Industries,Steel/Iron Ore
+RPM,1980/3/17,1982/12/29,1.274310946,2.111716032,0.837405086,65.71%,RPM International Inc. Common Stock,"?9,863,136,708 ",United States,Basic Industries,Paints/Coatings
+PVH,1980/3/17,1982/12/29,1.237499952,2.049999952,0.8125,65.66%,PVH Corp. Common Stock,"?4,948,797,276 ",United States,,
+PCAR,1980/3/17,1982/12/29,1.251402974,2.067900896,0.816497922,65.25%,PACCAR Inc. Common Stock,"?29,025,737,302 ",United States,Capital Goods,Auto Manufacturing
+CINF,1980/3/17,1982/12/29,1.325464964,2.182446957,0.856981993,64.66%,Cincinnati Financial Corporation Common Stock,"?19,142,957,317 ",United States,Finance,Property-Casualty Insurers
+OMC,1980/3/17,1982/12/29,1.53125,2.5,0.96875,63.27%,Omnicom Group Inc. Common Stock,"?15,651,446,453 ",United States,Technology,Advertising
+MCI,1980/3/17,1982/12/29,3.1875,5.1875,2,62.75%,Barings Corporate Investors Common Stock,"?312,233,090 ",United States,Finance,Trusts Except Educational Religious and Charitable
+RHI,1980/3/17,1982/12/29,0.114583001,0.185764,0.071180999,62.12%,Robert Half International Inc. Common Stock,"?11,882,140,812 ",United States,Technology,Diversified Commercial Services
+UVV,1973/2/21,1982/12/29,4.0625,6.53125,2.46875,60.77%,Universal Corporation Common Stock,"?1,366,990,121 ",United States,Consumer Non-Durables,Tobacco
+LAWS,1980/3/17,1982/12/29,4.839506149,7.777778149,2.938271999,60.71%,Lawson Products Inc. Common Stock,"?338,552,790 ",United States,Capital Goods,Industrial Machinery/Components
+XOM,1971/12/31,1982/12/29,2.304687977,3.703125,1.398437023,60.68%,Exxon Mobil Corporation Common Stock,"?372,000,000,000 ",United States,Energy,Oil & Gas Production
+BOH,1980/3/17,1982/12/29,1.868687034,2.996633053,1.127946019,60.36%,Bank of Hawaii Corporation Common Stock,"?3,216,967,176 ",United States,Finance,Major Banks
+TRC,1980/3/17,1982/12/29,5.0850811,8.145545959,3.060464859,60.19%,Tejon Ranch Co Common Stock,"?471,916,607 ",United States,Finance,Major Banks
+NSEC,1980/3/18,1982/12/29,2.5,3.958333015,1.458333015,58.33%,National Security Group Inc. Common Stock,"?40,712,059 ",United States,Finance,Property-Casualty Insurers
+SWK,1980/3/17,1982/12/29,5.25,8.291666985,3.041666985,57.94%,Stanley Black & Decker Inc. Common Stock,"?24,354,169,807 ",United States,Capital Goods,Diversified Manufacture
+AFL,1980/3/17,1982/12/29,0.119948998,0.189393997,0.069444999,57.90%,AFLAC Incorporated Common Stock,"?38,491,259,626 ",United States,Finance,Accident &Health Insurance
+DBD,1981/12/31,1982/12/29,5.319223881,8.380951881,3.061728001,57.56%,Diebold Nixdorf Incorporated Common Stock,"?570,426,242 ",United States,Technology,EDP Services
+DUK,1980/3/17,1982/12/29,6.428419113,10.07845306,3.650033951,56.78%,Duke Energy Corporation (Holding Company) Common Stock,"?81,144,224,542 ",United States,Public Utilities,Power Generation
+GAM,1980/3/17,1982/12/29,12.875,20.125,7.25,56.31%,General American Investors Inc. Common Stock,"?950,676,959 ",United States,Finance,Investment Managers
+HBAN,1980/3/17,1982/12/29,1.827734947,2.855835915,1.028100967,56.25%,Huntington Bancshares Incorporated Common Stock,"?20,406,471,785 ",United States,Finance,Major Banks
+GE,1971/12/31,1982/12/29,10.03605843,15.66506386,5.629005432,56.09%,General Electric Company Common Stock,"?96,905,223,898 ",United States,Consumer Durables,Metal Fabrications
+BAX,1981/10/27,1982/12/29,3.854181051,6.012522221,2.158341169,56.00%,Baxter International Inc. Common Stock,"?40,409,522,051 ",United States,Health Care,Medical/Dental Instruments
+MGEE,1980/3/17,1982/12/29,3.592592955,5.592593193,2.000000238,55.67%,MGE Energy Inc,"?2,743,714,882 ",United States,,
+MCS,1980/3/17,1982/12/29,1.111111045,1.728394985,0.61728394,55.56%,Marcus Corporation (The) Common Stock,"?535,389,354 ",United States,Consumer Services,Movies/Entertainment
+NTRS,1980/3/17,1982/12/29,0.805555999,1.25,0.444444001,55.17%,Northern Trust Corporation Common Stock,"?21,812,692,679 ",United States,Finance,Trusts Except Educational Religious and Charitable
+UFCS,1980/3/18,1982/12/29,2.034568071,3.135802031,1.101233959,54.13%,United Fire Group Inc. Common Stock,"?693,686,000 ",United States,Finance,Property-Casualty Insurers
+ADX,1980/3/17,1982/12/29,7.5,11.5,4,53.33%,Adams Diversified Equity Fund Inc.,"?1,990,136,978 ",United States,Finance,Investment Managers
+JNJ,1971/12/31,1982/12/29,2.052083015,3.140625,1.088541985,53.05%,Johnson & Johnson Common Stock,"?444,000,000,000 ",United States,Health Care,Biotechnology: Pharmaceutical Preparations
+RF,1980/3/17,1982/12/29,1.610754013,2.462152004,0.851397991,52.86%,Regions Financial Corporation Common Stock,"?20,054,927,268 ",United States,Finance,Major Banks
+ED,1971/12/31,1982/12/29,6.46875,9.875,3.40625,52.66%,Consolidated Edison Inc. Common Stock,"?31,425,523,178 ",United States,Public Utilities,Power Generation
+D,1980/3/17,1982/12/29,3.166666985,4.833333015,1.666666031,52.63%,Dominion Energy Inc. Common Stock,"?66,101,402,163 ",United States,Public Utilities,Electric Utilities: Central
+PG,1971/12/31,1982/12/29,2.453125,3.726562977,1.273437977,51.91%,Procter & Gamble Company (The) Common Stock,"?352,000,000,000 ",United States,Consumer Non-Durables,Package Goods/Cosmetics
+COKE,1973/2/21,1982/12/29,12.75,19.25,6.5,50.98%,Coca-Cola Consolidated Inc. Common Stock,"?4,303,554,357 ",United States,Consumer Non-Durables,Beverages (Production/Distribution)
+TY,1980/3/17,1982/12/29,17.875,26.75,8.875,49.65%,Tri Continental Corporation Common Stock,"?1,542,415,436 ",United States,Finance,Finance Companies
+EQT,1980/3/17,1982/12/29,0.648535013,0.96776098,0.319225967,49.22%,EQT Corporation Common Stock,"?9,629,955,433 ",United States,Energy,Oil & Gas Production
+CWT,1973/2/21,1982/12/29,1.742187977,2.59375,0.851562023,48.88%,California Water Service Group Common Stock,"?3,139,015,479 ",United States,Public Utilities,Water Supply
+FITB,1980/3/17,1982/12/29,0.543007016,0.806380987,0.263373971,48.50%,Fifth Third Bancorp Common Stock,"?28,770,821,876 ",United States,Finance,Major Banks
+WRE,1980/3/17,1982/12/29,3.07407403,4.55555582,1.481481791,48.19%,Washington Real Estate Investment Trust Common Stock,"?2,138,819,522 ",United States,Consumer Services,Real Estate Investment Trusts
+TAYD,1980/11/5,1982/12/29,3.290810108,4.859086037,1.568275928,47.66%,Taylor Devices Inc. Common Stock,"?34,761,611 ",United States,Capital Goods,Industrial Machinery/Components
+CET,1980/3/17,1982/12/29,6.875,10.125,3.25,47.27%,Central Securities Corporation Common Stock,"?1,084,929,419 ",United States,Finance,Finance/Investors Services
+GWW,1973/2/21,1982/12/29,4.546875,6.6875,2.140625,47.08%,W.W. Grainger Inc. Common Stock,"?25,046,958,652 ",United States,Consumer Non-Durables,Telecommunications Equipment
+SJW,1972/6/1,1982/12/29,1.416666985,2.083333015,0.666666031,47.06%,SJW Group Common Stock (DE),"?2,054,055,046 ",United States,Public Utilities,Water Supply
+CPB,1973/2/21,1982/12/29,2.0625,3.023437977,0.960937977,46.59%,Campbell Soup Company Common Stock,"?12,763,512,239 ",United States,Consumer Non-Durables,Packaged Foods
+AON,1980/6/2,1982/12/29,2.685184956,3.92592597,1.240741014,46.21%,Aon plc Class A Ordinary Shares (Ireland),"?59,247,639,308 ",United States,Finance,Specialty Insurers
+RLI,1980/3/17,1982/12/29,0.454400003,0.663999975,0.209599972,46.13%,RLI Corp. Common Stock (DE),"?4,676,124,045 ",United States,Finance,Property-Casualty Insurers
+BK,1973/5/3,1982/12/29,1.490618944,2.169678926,0.679059982,45.56%,The Bank of New York Mellon Corporation Common Stock,"?40,944,499,251 ",United States,Finance,Investment Managers
+AJRD,1981/2/2,1982/12/29,3.167634964,4.597943783,1.430308819,45.15%,Aerojet Rocketdyne Holdings Inc. Common Stock,"?3,109,006,004 ",United States,Capital Goods,Military/Government/Technical
+EIX,1973/5/3,1982/12/29,6.25,9.0625,2.8125,45.00%,Edison International Common Stock,"?24,810,019,906 ",United States,Public Utilities,Electric Utilities: Central
+FOE,1980/3/17,1982/12/29,2.685184956,3.888889074,1.203704119,44.83%,Ferro Corporation Common Stock,"?1,800,540,960 ",United States,Basic Industries,Paints/Coatings
+DXC,1981/12/31,1982/12/29,1.086779952,1.573243022,0.48646307,44.76%,DXC Technology Company Common Stock ,"?7,544,587,099 ",,Technology,EDP Services
+EMR,1972/6/1,1982/12/29,3.552083015,5.125,1.572916985,44.28%,Emerson Electric Company Common Stock,"?55,657,800,000 ",United States,Capital Goods,Industrial Machinery/Components
+VSH,1980/3/17,1982/12/29,0.582314014,0.837076008,0.254761994,43.75%,Vishay Intertechnology Inc. Common Stock,"?2,609,696,636 ",United States,Capital Goods,Industrial Machinery/Components
+DIOD,1973/2/21,1982/12/29,0.395062,0.567901015,0.172839016,43.75%,Diodes Incorporated Common Stock,"?3,646,753,650 ",United States,Technology,Semiconductors
+IBM,1971/12/31,1982/12/29,16.08508682,23.09392929,7.008842468,43.57%,International Business Machines Corporation Common Stock,"?113,000,000,000 ",United States,Technology,EDP Services
+ABEO,1980/9/19,1982/12/29,100000,142500,42500,42.50%,Abeona Therapeutics Inc. Common Stock,"?42,519,195 ",United States,Health Care,Biotechnology: Pharmaceutical Preparations
+NOC,1981/12/31,1982/12/29,7.886802197,11.21845818,3.331655979,42.24%,Northrop Grumman Corporation Common Stock,"?70,122,549,772 ",United States,Miscellaneous,Diversified Manufacture
+NEM,1980/3/17,1982/12/29,10.26666737,14.5666666,4.299999237,41.88%,Newmont Corporation,"?61,506,105,598 ",United States,Basic Industries,Precious Metals
+AFG,1980/3/17,1982/12/29,6.083333015,8.625,2.541666985,41.78%,American Financial Group Inc. Common Stock,"?11,578,800,146 ",United States,Finance,Property-Casualty Insurers
+SKY,1973/5/3,1982/12/29,17.5,24.75,7.25,41.43%,Skyline Champion Corporation Common Stock,"?3,659,667,301 ",United States,Basic Industries,Homebuilding
+MSEX,1973/2/21,1982/12/29,1.96875,2.78125,0.8125,41.27%,Middlesex Water Company Common Stock,"?1,821,770,575 ",United States,Public Utilities,Water Supply
+CMTL,1980/3/17,1982/12/29,6.85185194,9.629630089,2.777778149,40.54%,Comtech Telecommunications Corp. Common Stock,"?507,185,371 ",United States,Technology,Radio And Television Broadcasting And Communications Equipment
+SIF,1973/2/21,1982/12/29,2.305556059,3.22222209,0.916666031,39.76%,SIFCO Industries Inc. Common Stock,"?44,124,115 ",United States,Capital Goods,Office Equipment/Supplies/Services
+MRK,1971/12/31,1982/12/29,1.643342018,2.286101103,0.642759085,39.11%,Merck & Company Inc. Common Stock (new),"?195,000,000,000 ",United States,Health Care,Biotechnology: Pharmaceutical Preparations
+ALX,1973/2/21,1982/12/29,6.75,9.375,2.625,38.89%,Alexander's Inc. Common Stock,"?1,278,201,468 ",United States,Consumer Services,Real Estate Investment Trusts
+AXR,1973/5/3,1982/12/29,2.870369911,3.981481075,1.111111164,38.71%,AMREP Corporation Common Stock,"?93,905,536 ",United States,Consumer Services,Homebuilding
+NVO,1981/4/30,1982/12/29,0.319999993,0.443749994,0.123750001,38.67%,Novo Nordisk A/S Common Stock,"?233,000,000,000 ",Denmark,Health Care,Biotechnology: Pharmaceutical Preparations
+GL,1980/10/1,1982/12/29,2.833333015,3.92592597,1.092592955,38.56%,Globe Life Inc. Common Stock,"?9,401,386,271 ",United States,Finance,Life Insurance
+MEI,1982/10/20,1982/12/29,0.304037988,0.420975,0.116937011,38.46%,Methode Electronics Inc. Common Stock,"?1,540,733,952 ",United States,Capital Goods,Electrical Products
+FELE,1980/3/17,1982/12/29,1.46875,2.03125,0.5625,38.30%,Franklin Electric Co. Inc. Common Stock,"?3,719,883,473 ",United States,Consumer Durables,Metal Fabrications
+IP,1971/12/31,1982/12/29,8.171583176,11.26511002,3.09352684,37.86%,International Paper Company Common Stock,"?15,660,524,099 ",United States,Basic Industries,Containers/Packaging
+ROL,1980/3/17,1982/12/29,0.194159999,0.266276985,0.072116986,37.14%,Rollins Inc. Common Stock,"?16,027,231,477 ",United States,Technology,Industrial Specialties
+INSI,1980/3/17,1982/12/29,13.125,18,4.875,37.14%,Insight Select Income Fund,"?190,852,824 ",United States,Finance,Investment Managers
+BPOP,1980/3/17,1982/12/29,2.916666985,4,1.083333015,37.14%,Popular Inc. Common Stock,"?6,375,056,626 ",United States,Finance,Major Banks
+GLT,1980/3/17,1982/12/29,2.052083015,2.8125,0.760416985,37.06%,Glatfelter Corporation Common Stock,"?572,573,442 ",United States,Basic Industries,Paper
+ADM,1980/3/17,1982/12/29,1.848521948,2.520972013,0.672450066,36.38%,Archer-Daniels-Midland Company Common Stock,"?46,732,907,130 ",United States,,
+MDU,1973/2/21,1982/12/29,1.765432,2.407407045,0.641975045,36.36%,MDU Resources Group Inc. Common Stock (Holding Company),"?5,287,119,240 ",United States,,
+WELL,1980/3/19,1982/12/29,6.5,8.833333015,2.333333015,35.90%,Welltower Inc. Common Stock,"?39,508,210,778 ",United States,Consumer Services,Real Estate Investment Trusts
+YELL,1980/3/17,1982/12/29,52500,71250,18750,35.71%,Yellow Corporation Common Stock,"?415,272,974 ",United States,Transportation,Trucking Freight/Courier Services
+GRC,1980/3/17,1982/12/29,1.383538008,1.868989944,0.485451937,35.09%,Gorman-Rupp Company (The) Common Stock,"?1,013,434,409 ",United States,Capital Goods,Fluid Controls
+BC,1981/12/31,1982/12/29,2.328125,3.140625,0.8125,34.90%,Brunswick Corporation Common Stock,"?6,651,051,265 ",United States,Basic Industries,Homebuilding
+TYL,1980/3/17,1982/12/29,2.166666985,2.916666985,0.75,34.62%,Tyler Technologies Inc. Common Stock,"?16,710,751,316 ",United States,Technology,Computer Software: Prepackaged Software
+LPX,1980/3/17,1982/12/29,7.083333015,9.5,2.416666985,34.12%,Louisiana-Pacific Corporation Common Stock,"?5,287,934,909 ",United States,,
+BBWI,1982/4/1,1982/12/29,2.399816036,3.210788965,0.810972929,33.79%,Bath & Body Works Inc.,"?11,128,471,222 ",United States,Miscellaneous,Diversified Commercial Services
+KBAL,1980/3/17,1982/12/29,1.427108049,1.902809978,0.475701928,33.33%,Kimball International Inc. Class B Common Stock,"?330,230,038 ",United States,Consumer Durables,Industrial Specialties
+ROK,1981/12/31,1982/12/29,8.1875,10.90625,2.71875,33.21%,Rockwell Automation Inc. Common Stock,"?31,774,992,069 ",United States,Capital Goods,Industrial Machinery/Components
+AIT,1980/3/17,1982/12/29,2.194787025,2.897119045,0.70233202,32.00%,Applied Industrial Technologies Inc. Common Stock,"?3,881,801,028 ",United States,Capital Goods,Industrial Machinery/Components
+KLAC,1980/10/8,1982/12/29,1.15625,1.520833015,0.364583015,31.53%,KLA Corporation Common Stock,"?48,503,211,684 ",United States,Capital Goods,Electronic Components
+KWR,1980/3/17,1982/12/29,4.833333015,6.333333015,1.5,31.03%,Quaker Houghton Common Stock,"?3,105,357,364 ",United States,Basic Industries,Automotive Aftermarket
+CDE,1980/3/17,1982/12/29,136,177.5,41.5,30.51%,Coeur Mining Inc. Common Stock,"?1,260,978,162 ",United States,Basic Industries,Precious Metals
+CMA,1980/3/17,1982/12/29,2.814815044,3.666666985,0.85185194,30.26%,Comerica Incorporated Common Stock,"?11,074,842,996 ",United States,Finance,Major Banks
+SO,1981/12/31,1982/12/29,3.665400028,4.772655964,1.107255936,30.21%,Southern Company (The) Common Stock,"?71,904,567,130 ",United States,Public Utilities,Power Generation
+WY,1973/5/3,1982/12/29,19.08333206,24.75,5.666667938,29.69%,Weyerhaeuser Company Common Stock,"?28,748,670,120 ",United States,Consumer Services,Real Estate Investment Trusts
+CAT,1971/12/31,1982/12/29,3.9375,5.09375,1.15625,29.37%,Caterpillar Inc. Common Stock,"?113,000,000,000 ",United States,Capital Goods,Construction/Ag Equipment/Trucks
+FRD,1980/3/17,1982/12/29,2.304549932,2.977725029,0.673175097,29.21%,Friedman Industries Inc. Common Stock,"?53,819,671 ",United States,Basic Industries,Steel/Iron Ore
+UNP,1980/1/2,1982/12/29,3.015294075,3.887312889,0.872018814,28.92%,Union Pacific Corporation Common Stock,"?161,000,000,000 ",United States,Transportation,Railroads
+NSC,1982/6/2,1982/12/29,4.763888836,6.138888836,1.375,28.86%,Norfolk Southern Corporation Common Stock,"?63,701,673,547 ",United States,Transportation,Railroads
+SSL,1982/4/26,1982/12/29,2.625,3.375,0.75,28.57%,Sasol Ltd. American Depositary Shares,"?15,147,819,327 ",South Africa,Energy,Oil & Gas Production
+PPL,1980/3/17,1982/12/29,3.812918901,4.88985014,1.076931238,28.24%,PPL Corporation Common Stock,"?19,332,663,957 ",United States,Public Utilities,Electric Utilities: Central
+BXMT,1980/12/29,1982/12/29,240,307.5,67.5,28.13%,Blackstone Mortgage Trust Inc. Common Stock,"?5,274,060,461 ",United States,Consumer Services,Real Estate Investment Trusts
+LUMN,1980/3/17,1982/12/29,0.888889015,1.135802031,0.246913016,27.78%,Lumen Technologies Inc. Common Stock,"?11,205,925,853 ",United States,Public Utilities,Telecommunications Equipment
+IFF,1974/12/17,1982/12/29,7.25,9.208333015,1.958333015,27.01%,International Flavors & Fragrances Inc. Common Stock,"?30,488,305,317 ",United States,Basic Industries,Major Chemicals
+WRB,1973/10/23,1982/12/29,0.346289009,0.438957006,0.092667997,26.76%,W.R. Berkley Corporation Common Stock,"?35,493,866,302 ",United States,Finance,Property-Casualty Insurers
+SGC,1973/2/21,1982/12/29,0.9375,1.1875,0.25,26.67%,Superior Group of Companies Inc. Common Stock,"?307,924,948 ",United States,,
+UL,1980/3/25,1982/12/29,1.055556059,1.333333015,0.277776957,26.32%,Unilever PLC Common Stock,"?112,000,000,000 ",United Kingdom,Consumer Non-Durables,Farming/Seeds/Milling
+FMC,1980/3/17,1982/12/29,1.07328701,1.355159998,0.281872988,26.26%,FMC Corporation Common Stock,"?14,764,660,803 ",United States,Basic Industries,Agricultural Chemicals
+NXGN,1982/12/1,1982/12/29,1.171875,1.46875,0.296875,25.33%,NextGen Healthcare Inc. Common Stock,"?1,307,877,424 ",United States,Health Care,Managed Health Care
+KEX,1980/3/17,1982/12/29,3.150000095,3.9375,0.787499905,25.00%,Kirby Corporation Common Stock,"?4,226,110,200 ",United States,Transportation,Marine Transportation
+PAI,1980/3/17,1982/12/29,9.875,12.25,2.375,24.05%,Western Asset Investment Grade Income Fund Inc.,"?128,397,987 ",United States,Finance,Trusts Except Educational Religious and Charitable
+COHU,1980/3/17,1982/12/29,0.59375,0.734375,0.140625,23.68%,Cohu Inc. Common Stock,"?1,327,249,201 ",United States,Capital Goods,Electrical Products
+CSX,1980/11/3,1982/12/29,0.391204,0.483796,0.092592001,23.67%,CSX Corporation Common Stock,"?76,746,696,646 ",United States,Transportation,Railroads
+WEN,1980/5/6,1982/12/29,2.125,2.625,0.5,23.53%,Wendy's Company (The) Common Stock,"?4,528,102,892 ",United States,Consumer Services,Restaurants
+PEP,1972/6/1,1982/12/29,1.601852059,1.965278029,0.36342597,22.69%,PepsiCo Inc. Common Stock,"?218,000,000,000 ",United States,Consumer Non-Durables,Beverages (Production/Distribution)
+LNC,1980/3/17,1982/12/29,9.125,11.1875,2.0625,22.60%,Lincoln National Corporation Common Stock,"?10,247,259,225 ",United States,Finance,Life Insurance
+INTC,1980/3/17,1982/12/29,0.325520992,0.398438007,0.072917014,22.40%,Intel Corporation Common Stock,"?193,000,000,000 ",United States,Technology,Semiconductors
+PHG,1980/3/17,1982/12/29,2.125,2.59375,0.46875,22.06%,Koninklijke Philips N.V. NY Registry Shares,"?25,835,716,792 ",Netherlands,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+APA,1979/5/15,1982/12/29,3.559403896,4.329003811,0.769599915,21.62%,APA Corporation Common Stock,"?13,395,971,521 ",United States,Energy,Oil & Gas Production
+HWKN,1980/3/18,1982/12/29,0.875,1.0625,0.1875,21.43%,Hawkins Inc. Common Stock,"?925,111,981 ",United States,Basic Industries,Industrial Specialties
+AROW,1980/9/18,1982/12/29,1.19354105,1.444813013,0.251271963,21.05%,Arrow Financial Corporation Common Stock,"?538,808,121 ",United States,Finance,Major Banks
+TKR,1973/2/21,1982/12/29,7.359519958,8.9030056,1.543485641,20.97%,Timken Company (The) Common Stock,"?4,539,295,082 ",United States,Capital Goods,Metal Fabrications
+CCK,1980/3/17,1982/12/29,2.72222209,3.291666985,0.569444895,20.92%,Crown Holdings Inc.,"?14,553,777,369 ",United States,Consumer Durables,Containers/Packaging
+NFG,1973/5/3,1982/12/29,2.65625,3.210227013,0.553977013,20.86%,National Fuel Gas Company Common Stock,"?5,995,977,900 ",United States,Energy,Oil & Gas Production
+TDW,1980/3/17,1982/12/29,709.6774292,854.8386841,145.1612549,20.45%,Tidewater Inc. Common Stock,"?752,933,921 ",United States,Energy,Oilfield Services/Equipment
+CMC,1980/3/17,1982/12/29,0.473957986,0.570312977,0.096354991,20.33%,Commercial Metals Company Common Stock,"?4,668,523,823 ",United States,Basic Industries,Steel/Iron Ore
+WAFD,1982/11/9,1982/12/29,0.982928991,1.182587028,0.199658036,20.31%,Washington Federal Inc. Common Stock,"?2,185,637,691 ",United States,Finance,Major Banks
+PEG,1980/1/2,1982/12/29,6.375,7.666666985,1.291666985,20.26%,Public Service Enterprise Group Incorporated Common Stock,"?33,478,556,706 ",United States,Public Utilities,Electric Utilities: Central
+SFE,1980/3/17,1982/12/29,1.083333015,1.291666985,0.208333969,19.23%,Safeguard Scientifics Inc. New Common Stock,"?87,644,704 ",United States,Finance,Finance/Investors Services
+LNT,1973/2/21,1982/12/29,5.03125,5.96875,0.9375,18.63%,Alliant Energy Corporation Common Stock,"?15,151,455,414 ",United States,Public Utilities,Power Generation
+JHI,1980/3/17,1982/12/29,14.125,16.75,2.625,18.58%,John Hancock Investors Trust Common Stock,"?140,370,732 ",United States,Finance,Trusts Except Educational Religious and Charitable
+UBP,1980/3/17,1982/12/29,7.6875,9.0625,1.375,17.89%,Urstadt Biddle Properties Inc. Common Stock,"?705,014,285 ",United States,Consumer Services,Real Estate Investment Trusts
+J,1980/3/17,1982/12/29,0.583333015,0.6875,0.104166985,17.86%,Jacobs Engineering Group Inc. Common Stock,"?15,710,165,778 ",United States,Capital Goods,Oilfield Services/Equipment
+MMC,1973/2/21,1982/12/29,2.9375,3.458333015,0.520833015,17.73%,Marsh & McLennan Companies Inc. Common Stock,"?74,374,119,498 ",United States,Finance,Specialty Insurers
+NEU,1980/3/17,1982/12/29,10.41666698,12.23958302,1.822916031,17.50%,NewMarket Corp Common Stock,"?3,214,814,754 ",United States,Basic Industries,Major Chemicals
+AGYS,1980/3/17,1982/12/29,1.901234984,2.22222209,0.320987105,16.88%,Agilysys Inc. Common Stock (DE),"?989,067,567 ",United States,Technology,Computer Software: Prepackaged Software
+CMI,1973/2/21,1982/12/29,5.234375,6.109375,0.875,16.72%,Cummins Inc. Common Stock,"?27,489,784,122 ",United States,Capital Goods,Construction/Ag Equipment/Trucks
+BIF,1980/3/17,1982/12/29,7.5,8.75,1.25,16.67%,Boulder Growth & Income Fund Inc.,"?1,333,714,172 ",United States,Finance,Investment Managers
+BDX,1973/2/21,1982/12/29,2.320312977,2.703125,0.382812023,16.50%,Becton Dickinson and Company Common Stock,"?75,501,355,645 ",United States,Health Care,Medical/Dental Instruments
+UMBF,1980/3/17,1982/12/29,5.169937134,6.02068615,0.850749016,16.46%,UMB Financial Corporation Common Stock,"?4,697,753,260 ",United States,Finance,Commercial Banks
+CLF,1973/2/21,1982/12/29,2.015625,2.34375,0.328125,16.28%,Cleveland-Cliffs Inc. Common Stock,"?12,441,701,814 ",United States,,
+HSC,1980/3/17,1982/12/29,2.708333015,3.145833015,0.4375,16.15%,Harsco Corporation Common Stock,"?1,029,930,122 ",United States,Basic Industries,Steel/Iron Ore
+SR,1973/2/21,1982/12/29,5.53125,6.34375,0.8125,14.69%,Spire Inc. Common Stock,"?3,633,382,736 ",United States,Public Utilities,Oil/Gas Transmission
+VNO,1980/3/17,1982/12/29,0.782272995,0.896605015,0.11433202,14.62%,Vornado Realty Trust Common Stock,"?8,527,866,084 ",United States,Consumer Services,Real Estate Investment Trusts
+HON,1971/12/31,1982/12/29,4.62781477,5.303118229,0.675303459,14.59%,Honeywell International Inc. Common Stock,"?126,000,000,000 ",United States,,
+GT,1971/12/31,1982/12/29,15.9375,18.25,2.3125,14.51%,The Goodyear Tire & Rubber Company Common Stock,"?3,494,630,409 ",United States,Consumer Durables,Automotive Aftermarket
+ESCA,1980/3/17,1982/12/29,0.126811996,0.144927993,0.018115997,14.29%,Escalade Incorporated Common Stock,"?176,762,649 ",United States,Consumer Non-Durables,Recreational Products/Toys
+JHS,1980/3/17,1982/12/29,11.5,13.125,1.625,14.13%,John Hancock Income Securities Trust Common Stock,"?155,947,773 ",United States,Finance,Finance Companies
+TFC,1980/3/18,1982/12/29,1.888888955,2.155555964,0.266667008,14.12%,Truist Financial Corporation Common Stock,"?75,503,647,753 ",United States,Finance,Major Banks
+NJR,1980/3/17,1982/12/29,1.513888955,1.722221971,0.208333015,13.76%,NewJersey Resources Corporation Common Stock,"?4,375,596,861 ",United States,Public Utilities,Oil/Gas Transmission
+NWN,1973/2/21,1982/12/29,6.666666985,7.583333015,0.916666031,13.75%,Northwest Natural Holding Company Common Stock,"?1,753,135,234 ",United States,Public Utilities,Oil/Gas Transmission
+WFC,1972/6/1,1982/12/29,0.880208015,1,0.119791985,13.61%,Wells Fargo & Company Common Stock,"?177,000,000,000 ",United States,Finance,Major Banks
+MMM,1971/12/31,1982/12/29,8.4375,9.53125,1.09375,12.96%,3M Company Common Stock,"?83,037,940,000 ",United States,,
+PNM,1973/2/21,1982/12/29,15.33333302,17.25,1.916666985,12.50%,PNM Resources Inc. (Holding Co.) Common Stock,"?3,950,120,901 ",United States,Public Utilities,Electric Utilities: Central
+DD,1972/6/1,1982/12/29,7.27448988,8.183800697,0.909310818,12.50%,DuPont de Nemours Inc. Common Stock,"?35,293,163,974 ",,Capital Goods,Wholesale Distributors
+UGI,1973/2/21,1982/12/29,2.013889074,2.263889074,0.25,12.41%,UGI Corporation Common Stock,"?7,187,895,387 ",United States,Public Utilities,Natural Gas Distribution
+PSA,1980/11/18,1982/12/29,14.125,15.875,1.75,12.39%,Public Storage Common Stock,"?64,429,737,466 ",United States,Consumer Services,Real Estate Investment Trusts
+AXP,1972/6/1,1982/12/29,3.693286896,4.143884182,0.450597286,12.20%,American Express Company Common Stock,"?122,000,000,000 ",United States,Finance,Finance: Consumer Services
+FLS,1980/3/17,1982/12/29,1.530864,1.703704,0.172839999,11.29%,Flowserve Corporation Common Stock,"?4,282,400,071 ",United States,Capital Goods,Fluid Controls
+EGP,1973/2/21,1982/12/29,14.08333302,15.66666698,1.583333969,11.24%,EastGroup Properties Inc. Common Stock,"?7,787,482,722 ",United States,Consumer Services,Real Estate Investment Trusts
+SJI,1980/3/17,1982/12/29,2.205882072,2.450979948,0.245097876,11.11%,South Jersey Industries Inc. Common Stock,"?4,080,108,257 ",United States,Public Utilities,Oil/Gas Transmission
+ALE,1973/5/3,1982/12/29,15.65625,17.34375,1.6875,10.78%,Allete Inc.,"?3,453,384,501 ",United States,Public Utilities,Power Generation
+VHI,1980/3/17,1982/12/29,4.109000206,4.519899845,0.410899639,10.00%,Valhi Inc. Common Stock,"?637,365,676 ",United States,Basic Industries,Multi-Sector Companies
+HES,1980/3/17,1982/12/29,7.770833015,8.5,0.729166985,9.38%,Hess Corporation Common Stock,"?29,927,612,432 ",United States,Energy,Integrated oil Companies
+AAPL,1980/12/12,1982/12/29,0.128347993,0.140066996,0.011719003,9.13%,Apple Inc. Common Stock,"?2,730,000,000,000 ",United States,Technology,Computer Manufacturing
+PNW,1973/2/21,1982/12/29,22.375,24.375,2,8.94%,Pinnacle West Capital Corporation Common Stock,"?8,314,048,613 ",United States,Public Utilities,Electric Utilities: Central
+TNC,1973/2/22,1982/12/29,4.25,4.625,0.375,8.82%,Tennant Company Common Stock,"?1,440,745,633 ",United States,Capital Goods,Industrial Machinery/Components
+ITW,1973/3/13,1982/12/29,1.113281012,1.210937977,0.097656965,8.77%,Illinois Tool Works Inc. Common Stock,"?63,686,890,625 ",United States,Capital Goods,Industrial Machinery/Components
+GGG,1980/3/17,1982/12/29,0.164745003,0.178835005,0.014090002,8.55%,Graco Inc. Common Stock,"?11,485,067,521 ",United States,Capital Goods,Fluid Controls
+XEL,1973/2/21,1982/12/29,7.25,7.84375,0.59375,8.19%,Xcel Energy Inc. Common Stock,"?38,198,361,709 ",United States,Public Utilities,Power Generation
+SIEB,1980/3/18,1982/12/29,0.765625,0.828125,0.0625,8.16%,Siebert Financial Corp. Common Stock,"?66,747,424 ",United States,Finance,Investment Bankers/Brokers/Service
+SYNL,1980/3/17,1982/12/29,2.275556087,2.444443941,0.168887854,7.42%,Synalloy Corporation Common Stock,"?176,945,804 ",United States,Basic Industries,Steel/Iron Ore
+PCH,1980/3/17,1982/12/29,14.75354576,15.82264328,1.069097519,7.25%,PotlatchDeltic Corporation Common Stock,"?3,664,901,585 ",United States,Consumer Services,Real Estate Investment Trusts
+VXRT,1981/12/11,1982/12/29,115.5,123.75,8.25,7.14%,Vaxart Inc Common Stock,"?551,049,521 ",United States,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+B,1980/3/17,1982/12/29,2.666666985,2.854166985,0.1875,7.03%,Barnes Group Inc. Common Stock,"?2,144,795,317 ",United States,Capital Goods,Office Equipment/Supplies/Services
+HL,1980/3/17,1982/12/29,17.33333206,18.5,1.166667938,6.73%,Hecla Mining Company Common Stock,"?3,757,697,735 ",United States,Basic Industries,Precious Metals
+THC,1980/3/17,1982/12/29,28.26666641,30.13333321,1.866666794,6.60%,Tenet Healthcare Corporation Common Stock,"?9,288,322,395 ",United States,Health Care,Hospital/Nursing Management
+OTTR,1973/2/21,1982/12/29,5.28125,5.625,0.34375,6.51%,Otter Tail Corporation Common Stock,"?2,638,636,158 ",United States,Public Utilities,Electric Utilities: Central
+AE,1975/2/7,1982/12/29,4,4.25,0.25,6.25%,Adams Resources & Energy Inc. Common Stock,"?158,173,636 ",United States,Energy,Oilfield Services/Equipment
+BCE,1982/11/15,1982/12/29,9.1875,9.75,0.5625,6.12%,BCE Inc. Common Stock,"?48,767,850,000 ",Canada,Public Utilities,Telecommunications Equipment
+COHR,1980/3/17,1982/12/29,4.833333015,5.111111164,0.277778149,5.75%,Coherent Inc. Common Stock,"?6,267,047,483 ",United States,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+HE,1973/2/21,1982/12/29,7.1875,7.59375,0.40625,5.65%,Hawaiian Electric Industries Inc. Common Stock,"?4,626,074,741 ",United States,,
+WABC,1980/3/17,1982/12/29,2.25,2.375,0.125,5.56%,Westamerica Bancorporation Common Stock,"?1,582,235,555 ",United States,Finance,Major Banks
+HURC,1980/8/27,1982/12/29,13.5,14.25,0.75,5.56%,Hurco Companies Inc. Common Stock,"?221,523,654 ",United States,Basic Industries,Steel/Iron Ore
+PEO,1980/3/17,1982/12/29,18.16666794,19,0.833332062,4.59%,Adams Natural Resources Fund Inc. Common Stock,"?510,373,631 ",United States,Consumer Services,Real Estate Investment Trusts
+NC,1977/6/17,1982/12/29,0.587007999,0.611986995,0.024978995,4.26%,NACCO Industries Inc. Common Stock,"?216,070,084 ",United States,,
+MRO,1971/12/31,1982/12/29,5.012257099,5.219375134,0.207118034,4.13%,Marathon Oil Corporation Common Stock,"?17,604,132,777 ",United States,Energy,Oil & Gas Production
+ODC,1980/3/19,1982/12/29,1.6875,1.754999995,0.067499995,4.00%,Oil-Dri Corporation Of America Common Stock,"?213,686,293 ",United States,Basic Industries,Industrial Specialties
+APD,1980/3/17,1982/12/29,3.989362001,4.148357868,0.158995867,3.99%,Air Products and Chemicals Inc. Common Stock,"?48,505,112,754 ",United States,Basic Industries,Specialty Chemicals
+CNA,1973/2/21,1982/12/29,5.5,5.708333015,0.208333015,3.79%,CNA Financial Corporation Common Stock,"?11,893,937,636 ",United States,Finance,Property-Casualty Insurers
+TRMK,1980/3/17,1982/12/29,1.104166985,1.145833015,0.041666031,3.77%,Trustmark Corporation Common Stock,"?1,887,854,288 ",United States,Finance,Major Banks
+USLM,1980/3/17,1982/12/29,4.25,4.333333015,0.083333015,1.96%,United States Lime & Minerals Inc. Common Stock,"?647,894,472 ",United States,Energy,Other Metals and Minerals
+BCV,1980/3/17,1982/12/29,21.625,21.75,0.125,0.58%,Bancroft Fund Ltd.,"?119,239,355 ",United States,Finance,Finance/Investors Services
+OII,1975/10/31,1982/12/29,2.96875,2.96875,0,0.00%,Oceaneering International Inc. Common Stock,"?1,730,900,420 ",United States,Energy,Oilfield Services/Equipment
+AVA,1973/2/21,1982/12/29,10.4375,10.4375,0,0.00%,Avista Corporation Common Stock,"?3,246,531,775 ",United States,Public Utilities,Power Generation
+SSY,1980/3/18,1982/12/29,5.25,5.25,0,0.00%,SunLink Health Systems Inc. Common Stock,"?8,347,067 ",United States,Health Care,Medical/Nursing Services
+PCG,1972/6/1,1982/12/29,14.125,14.0625,-0.0625,-0.44%,Pacific Gas & Electric Co. Common Stock,"?21,529,839,052 ",United States,Public Utilities,Power Generation
+VBF,1982/12/21,1982/12/29,19,18.875,-0.125,-0.66%,Invesco Bond Fund Common Stock,"?200,228,782 ",United States,Finance,Trusts Except Educational Religious and Charitable
+ETN,1972/6/1,1982/12/29,2.271687031,2.250597,-0.021090031,-0.93%,Eaton Corporation PLC Ordinary Shares,"?58,304,560,000 ",Ireland,Capital Goods,Industrial Machinery/Components
+NEE,1973/2/21,1982/12/29,2.265625,2.242187977,-0.023437023,-1.03%,NextEra Energy Inc. Common Stock,"?161,000,000,000 ",United States,Public Utilities,Electric Utilities: Central
+DCI,1980/3/17,1982/12/29,0.385417014,0.380207986,-0.005209029,-1.35%,Donaldson Company Inc. Common Stock,"?6,198,903,355 ",United States,Capital Goods,Pollution Control Equipment
+SCL,1973/2/21,1982/12/29,1.585937977,1.5625,-0.023437977,-1.48%,Stepan Company Common Stock,"?2,183,142,507 ",United States,Consumer Non-Durables,Package Goods/Cosmetics
+HEI,1980/3/17,1982/12/29,0.154118001,0.151461005,-0.002656996,-1.72%,Heico Corporation Common Stock,"?19,245,405,112 ",United States,Capital Goods,Military/Government/Technical
+MKC,1973/2/21,1982/12/29,0.859375,0.84375,-0.015625,-1.82%,McCormick & Company Incorporated Common Stock,"?26,107,369,517 ",United States,Consumer Non-Durables,Farming/Seeds/Milling
+MOD,1982/9/20,1982/12/29,1.700000048,1.662500024,-0.037500024,-2.21%,Modine Manufacturing Company Common Stock,"?454,765,729 ",United States,Capital Goods,Auto Parts:O.E.M.
+VLO,1982/1/4,1982/12/29,5.513026237,5.341636181,-0.171390057,-3.11%,Valero Energy Corporation Common Stock,"?37,058,350,660 ",United States,Energy,Integrated oil Companies
+ALOT,1981/10/1,1982/12/29,1.030303001,0.98989898,-0.040404022,-3.92%,AstroNova Inc. Common Stock,"?104,492,419 ",United States,Technology,Computer peripheral equipment
+POWL,1980/3/17,1982/12/29,3,2.875,-0.125,-4.17%,Powell Industries Inc. Common Stock,"?259,039,823 ",United States,Consumer Durables,Electrical Products
+ARL,1982/4/21,1982/12/29,7.3125,6.9375,-0.375,-5.13%,American Realty Investors Inc. Common Stock,"?225,805,561 ",United States,Consumer Services,Building operators
+PW,1973/2/21,1982/12/29,7,6.625,-0.375,-5.36%,Power REIT (MD) Common Stock,"?156,818,838 ",United States,Consumer Services,Real Estate Investment Trusts
+PRG,1982/11/4,1982/12/29,0.858648002,0.806290984,-0.052357018,-6.10%,PROG Holdings Inc. Common Stock,"?1,485,403,701 ",United States,Technology,Diversified Commercial Services
+IDA,1973/2/21,1982/12/29,15.1875,14.25,-0.9375,-6.17%,IDACORP Inc. Common Stock,"?5,586,922,910 ",United States,Public Utilities,Electric Utilities: Central
+EVRG,1973/2/21,1982/12/29,13.0625,12.125,-0.9375,-7.18%,Evergy Inc. Common Stock,"?14,614,033,940 ",,Public Utilities,Power Generation
+NRT,1980/3/17,1982/12/29,22.33333206,20.625,-1.708332062,-7.65%,North European Oil Royality Trust Common Stock,"?148,795,652 ",United States,Energy,Oil & Gas Production
+MSB,1973/2/21,1982/12/29,9.5,8.75,-0.75,-7.89%,Mesabi Trust Common Stock,"?354,240,270 ",United States,Basic Industries,Steel/Iron Ore
+TWIN,1980/3/17,1982/12/29,4.125,3.78125,-0.34375,-8.33%,Twin Disc Incorporated Common Stock,"?180,613,927 ",United States,Capital Goods,Industrial Machinery/Components
+DIS,1971/12/31,1982/12/29,1.412955999,1.29478097,-0.11817503,-8.36%,Walt Disney Company (The) Common Stock,"?240,000,000,000 ",United States,Consumer Services,Movies/Entertainment
+ASH,1980/3/17,1982/12/29,6.036738873,5.490105152,-0.54663372,-9.06%,Ashland Global Holdings Inc. Common Stock,"?4,821,750,258 ",United States,Basic Industries,Specialty Chemicals
+LHX,1981/12/31,1982/12/29,9.71372509,8.79845047,-0.91527462,-9.42%,L3Harris Technologies Inc. Common Stock,"?50,556,236,312 ",United States,Capital Goods,Industrial Machinery/Components
+AWR,1973/2/21,1982/12/29,2.354166985,2.125,-0.229166985,-9.73%,American States Water Company Common Stock,"?3,225,336,388 ",United States,Public Utilities,Water Supply
+TEN,1980/3/17,1982/12/29,35.75,32.125,-3.625,-10.14%,Tenneco Inc. Class A Voting Common Stock,"?1,504,697,074 ",United States,Capital Goods,Auto Parts:O.E.M.
+LLY,1972/6/1,1982/12/29,4.046875,3.632812977,-0.414062023,-10.23%,Eli Lilly and Company Common Stock,"?248,000,000,000 ",United States,Health Care,Biotechnology: Pharmaceutical Preparations
+GHM,1980/3/17,1982/12/29,1.350000024,1.200000048,-0.149999976,-11.11%,Graham Corporation Common Stock,"?85,742,610 ",United States,Capital Goods,Metal Fabrications
+TXT,1973/2/21,1982/12/29,3.34375,2.96875,-0.375,-11.21%,Textron Inc. Common Stock,"?14,647,715,165 ",United States,Capital Goods,Aerospace
+NDSN,1980/3/18,1982/12/29,1.472221971,1.305556059,-0.166665912,-11.32%,Nordson Corporation Common Stock,"?12,472,287,098 ",United States,Capital Goods,Industrial Machinery/Components
+AVY,1973/2/21,1982/12/29,5.15625,4.5625,-0.59375,-11.52%,Avery Dennison Corporation Common Stock,"?13,104,743,280 ",United States,Miscellaneous,Office Equipment/Supplies/Services
+SONY,1973/2/21,1982/12/29,7.763636112,6.818181992,-0.945454121,-12.18%,Sony Group Corporation American Depositary Shares ,"?121,000,000,000 ",Japan,Consumer Non-Durables,Consumer Electronics/Appliances
+BRO,1981/2/11,1982/12/29,0.177778006,0.155555993,-0.022222012,-12.50%,Brown & Brown Inc. Common Stock,"?17,251,840,484 ",United States,Finance,Specialty Insurers
+CECE,1980/12/2,1982/12/29,3.333333015,2.916666985,-0.416666031,-12.50%,CECO Environmental Corp. Common Stock,"?191,220,541 ",United States,Capital Goods,Pollution Control Equipment
+ROG,1980/3/17,1982/12/29,4.96875,4.28125,-0.6875,-13.84%,Rogers Corporation Common Stock,"?5,129,515,961 ",United States,Capital Goods,Industrial Machinery/Components
+PAR,1982/12/3,1982/12/29,18.66666794,15.83333302,-2.833334923,-15.18%,PAR Technology Corporation Common Stock,"?1,006,366,172 ",United States,Technology,Computer Software: Prepackaged Software
+CI,1982/3/31,1982/12/29,5.80555582,4.916666985,-0.888888836,-15.31%,Cigna Corporation Common Stock,"?73,530,388,430 ",United States,Health Care,Medical Specialities
+RRX,1980/3/17,1982/12/29,1.777778029,1.49911797,-0.278660059,-15.67%,Regal Rexnord Corporation Common Stock,"?10,224,539,447 ",United States,Consumer Durables,Metal Fabrications
+KO,1971/12/31,1982/12/29,1.270833015,1.065104008,-0.205729008,-16.19%,Coca-Cola Company (The) Common Stock,"?254,000,000,000 ",United States,Consumer Non-Durables,Beverages (Production/Distribution)
+AZZ,1980/3/17,1982/12/29,2.551019907,2.097506046,-0.453513861,-17.78%,AZZ Inc.,"?1,209,942,202 ",United States,Capital Goods,Industrial Machinery/Components
+OXY,1981/12/31,1982/12/29,11.49673653,9.341098785,-2.155637741,-18.75%,Occidental Petroleum Corporation Common Stock,"?50,999,893,799 ",United States,Energy,Oil & Gas Production
+SLB,1981/12/31,1982/12/29,13.96875,11.3125,-2.65625,-19.02%,Schlumberger N.V. Common Stock,"?63,704,080,089 ",France,Energy,Oilfield Services/Equipment
+COP,1981/12/31,1982/12/29,5.145637035,4.09745121,-1.048185825,-20.37%,ConocoPhillips Common Stock,"?128,000,000,000 ",United States,Energy,Integrated oil Companies
+MUR,1980/3/17,1982/12/29,6.440701962,5.127375126,-1.313326836,-20.39%,Murphy Oil Corporation Common Stock,"?5,669,878,567 ",United States,Energy,Oil & Gas Production
+JOB,1980/3/17,1982/12/29,16.89270973,13.42753792,-3.465171814,-20.51%,GEE Group Inc. Common Stock,"?59,355,057 ",United States,Technology,Diversified Commercial Services
+PH,1980/3/17,1982/12/29,5.234568119,4.14814806,-1.086420059,-20.75%,Parker-Hannifin Corporation Common Stock,"?34,897,094,947 ",United States,Capital Goods,Office Equipment/Supplies/Services
+C,1977/1/3,1982/12/29,16.23687553,12.86499977,-3.371875763,-20.77%,Citigroup Inc. Common Stock,"?109,000,000,000 ",United States,Finance,Major Banks
+BRN,1973/2/21,1982/12/29,1.854166985,1.458333015,-0.395833969,-21.35%,Barnwell Industries Inc. Common Stock,"?37,316,519 ",United States,Energy,Oil & Gas Production
+HXL,1980/3/17,1982/12/29,16.66666794,13.08333302,-3.583334923,-21.50%,Hexcel Corporation Common Stock,"?4,386,705,880 ",United States,Capital Goods,Industrial Machinery/Components
+ES,1973/2/21,1982/12/29,15.5,12.125,-3.375,-21.77%,Eversource Energy (D/B/A) Common Stock,"?29,308,391,516 ",United States,Public Utilities,Electric Utilities: Central
+GNTX,1981/12/22,1982/12/29,0.101562999,0.078125,-0.023437999,-23.08%,Gentex Corporation Common Stock,"?6,586,698,839 ",United States,Capital Goods,Auto Parts:O.E.M.
+UG,1980/3/17,1982/12/29,8.297258377,6.313130856,-1.984127522,-23.91%,United-Guardian Inc. Common Stock,"?86,878,572 ",United States,Consumer Non-Durables,Package Goods/Cosmetics
+EXC,1973/5/2,1982/12/29,7.979671955,6.062767029,-1.916904926,-24.02%,Exelon Corporation Common Stock,"?42,626,156,738 ",United States,Public Utilities,Power Generation
+TTC,1980/3/17,1982/12/29,0.625,0.473957986,-0.151042014,-24.17%,Toro Company (The) Common Stock,"?8,666,502,503 ",United States,Capital Goods,Tools/Hardware
+F,1972/6/1,1982/12/29,2.153219938,1.616942048,-0.53627789,-24.91%,Ford Motor Company Common Stock,"?64,188,088,259 ",United States,Capital Goods,Auto Manufacturing
+OKE,1980/10/1,1982/12/29,3.885046005,2.900105,-0.984941006,-25.35%,ONEOK Inc. Common Stock,"?29,780,274,641 ",United States,Public Utilities,Oil & Gas Production
+HUBB,1972/6/5,1982/12/29,3.746001005,2.795326948,-0.950674057,-25.38%,Hubbell Inc Common Stock,"?9,751,737,078 ",United States,Capital Goods,Industrial Machinery/Components
+OGE,1973/2/21,1982/12/29,6.5,4.84375,-1.65625,-25.48%,OGE Energy Corp Common Stock,"?7,779,842,647 ",United States,Public Utilities,Electric Utilities: Central
+SWN,1980/3/17,1982/12/29,0.71875,0.53125,-0.1875,-26.09%,Southwestern Energy Company Common Stock,"?6,240,188,886 ",United States,Energy,Oil & Gas Production
+SWX,1973/2/21,1982/12/29,13.5,9.875,-3.625,-26.85%,Southwest Gas Holdings Inc. Common Stock (DE),"?4,376,750,212 ",United States,Public Utilities,Oil & Gas Production
+CTO,1980/3/17,1982/12/29,5.903909206,4.275244236,-1.62866497,-27.59%,CTO Realty Growth Inc. Common Stock,"?383,541,593 ",United States,Consumer Services,Real Estate Investment Trusts
+SVT,1973/5/3,1982/12/29,3.586010933,2.57744503,-1.008565903,-28.13%,Servotronics Inc. Common Stock,"?34,908,255 ",United States,Consumer Durables,Metal Fabrications
+ETR,1972/6/1,1982/12/29,20.875,14.875,-6,-28.74%,Entergy Corporation Common Stock,"?22,209,195,946 ",United States,Public Utilities,Electric Utilities: Central
+ECL,1973/2/21,1982/12/29,2.5,1.773437977,-0.726562023,-29.06%,Ecolab Inc. Common Stock,"?44,942,567,454 ",United States,Consumer Non-Durables,Package Goods/Cosmetics
+MTR,1979/10/15,1982/12/29,30.5,21.5,-9,-29.51%,Mesa Royalty Trust Common Stock,"?16,474,136 ",United States,Energy,Oil & Gas Production
+AIR,1980/3/17,1982/12/29,3.888889074,2.740741014,-1.14814806,-29.52%,AAR Corp. Common Stock,"?1,561,339,701 ",United States,Capital Goods,Aerospace
+EML,1980/3/17,1982/12/29,2.407407045,1.666666985,-0.740740061,-30.77%,Eastern Company (The) Common Stock,"?150,604,320 ",United States,Capital Goods,Industrial Specialties
+TMO,1980/3/17,1982/12/29,2.0631001,1.40466404,-0.65843606,-31.91%,Thermo Fisher Scientific Inc Common Stock,"?205,000,000,000 ",United States,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+NX,1980/3/17,1982/12/29,4.54321003,3.055556059,-1.487653971,-32.74%,Quanex Building Products Corporation Common Stock,"?750,244,875 ",United States,Basic Industries,Metal Fabrications
+CMS,1973/2/21,1982/12/29,29.25,19.625,-9.625,-32.91%,CMS Energy Corporation Common Stock,"?19,100,996,669 ",United States,Public Utilities,Power Generation
+CBT,1980/11/5,1982/12/29,7.875,5.25,-2.625,-33.33%,Cabot Corporation Common Stock,"?3,890,909,124 ",United States,Basic Industries,Specialty Chemicals
+WGO,1973/2/21,1982/12/29,9.5,6.3125,-3.1875,-33.55%,Winnebago Industries Inc. Common Stock,"?1,943,660,931 ",United States,Consumer Non-Durables,Homebuilding
+CNP,1971/12/31,1982/12/29,12.92599964,8.37731266,-4.548686981,-35.19%,CenterPoint Energy Inc (Holding Co) Common Stock,"?17,949,835,352 ",United States,Public Utilities,Electric Utilities: Central
+DTE,1971/12/31,1982/12/29,17.87233925,11.17021275,-6.702126503,-37.50%,DTE Energy Company Common Stock,"?24,444,919,067 ",United States,Public Utilities,Electric Utilities: Central
+BMI,1973/2/21,1982/12/29,0.75,0.460938007,-0.289061993,-38.54%,Badger Meter Inc. Common Stock,"?2,759,100,430 ",United States,Capital Goods,Industrial Machinery/Components
+CL,1973/5/2,1982/12/29,2,1.226562977,-0.773437023,-38.67%,Colgate-Palmolive Company Common Stock,"?62,927,278,311 ",United States,Consumer Non-Durables,Package Goods/Cosmetics
+OPY,1982/10/6,1982/12/29,3.875,2.375,-1.5,-38.71%,Oppenheimer Holdings Inc. Class A Common Stock (DE),"?519,725,518 ",United States,Finance,Investment Bankers/Brokers/Service
+SJT,1980/10/24,1982/12/29,14.75,9,-5.75,-38.98%,San Juan Basin Royalty Trust Common Stock,"?330,922,452 ",United States,Energy,Oil & Gas Production
+ELSE,1981/6/9,1982/12/29,1.555556059,0.944444001,-0.611112058,-39.29%,Electro-Sensors Inc. Common Stock,"?17,996,261 ",United States,Capital Goods,Industrial Machinery/Components
+CR,1980/3/17,1982/12/29,3.40192008,2.041152,-1.36076808,-40.00%,Crane Co. Common Stock,"?5,666,924,312 ",United States,Capital Goods,Office Equipment/Supplies/Services
+LZB,1973/2/21,1982/12/29,2.875,1.708333015,-1.166666985,-40.58%,La-Z-Boy Incorporated Common Stock,"?1,191,640,382 ",United States,Consumer Durables,Home Furnishings
+WMB,1981/12/31,1982/12/29,3.414362907,2.026791096,-1.387571812,-40.64%,Williams Companies Inc. (The) Common Stock,"?39,944,379,112 ",United States,Public Utilities,Natural Gas Distribution
+TPL,1980/3/17,1982/12/29,7,4.125,-2.875,-41.07%,Texas Pacific Land Corporation Common Stock,"?9,956,059,933 ",United States,Energy,Oil & Gas Production
+MARPS,1980/3/17,1982/12/29,31.5,18.5,-13,-41.27%,Marine Petroleum Trust Units of Beneficial Interest,"?30,980,000 ",United States,Energy,Oil & Gas Production
+IMO,1980/3/17,1982/12/29,4.222221851,2.47222209,-1.749999762,-41.45%,Imperial Oil Limited Common Stock,"?30,031,169,884 ",Canada,,
+AEP,1971/12/31,1982/12/29,30.375,17.75,-12.625,-41.56%,American Electric Power Company Inc. Common Stock,"?48,026,194,429 ",United States,Public Utilities,Electric Utilities: Central
+HFC,1980/3/17,1982/12/29,0.181640998,0.105469003,-0.076171994,-41.94%,HollyFrontier Corporation Common Stock,"?5,564,871,551 ",United States,Energy,Integrated oil Companies
+NL,1980/3/17,1982/12/29,16.5,9.5625,-6.9375,-42.05%,NL Industries Inc. Common Stock,"?321,610,017 ",United States,Consumer Services,Diversified Commercial Services
+FL,1971/12/31,1982/12/29,11.28125,6.53125,-4.75,-42.11%,Foot Locker Inc.,"?2,907,181,449 ",United States,Consumer Services,Clothing/Shoe/Accessory Stores
+GATX,1973/2/21,1982/12/29,10.875,6.21875,-4.65625,-42.82%,GATX Corporation Common Stock,"?4,101,090,000 ",United States,Transportation,Rental/Leasing Companies
+CLX,1973/2/21,1982/12/29,5.53125,3.078125,-2.453125,-44.35%,Clorox Company (The) Common Stock,"?17,036,129,723 ",United States,Consumer Durables,Specialty Chemicals
+PNRG,1980/3/17,1982/12/29,9.5,5.25,-4.25,-44.74%,PrimeEnergy Resources Corporation Common Stock,"?169,485,103 ",United States,Energy,Oil & Gas Production
+TEVA,1982/2/16,1982/12/29,0.90625,0.5,-0.40625,-44.83%,Teva Pharmaceutical Industries Limited American Depositary Shares,"?8,153,606,453 ",Israel,Health Care,Biotechnology: Pharmaceutical Preparations
+KGC,1981/3/17,1982/12/29,5.4375,3,-2.4375,-44.83%,Kinross Gold Corporation Common Stock,"?7,244,160,000 ",Canada,,
+CVR,1973/2/23,1982/12/29,12.8125,6.8125,-6,-46.83%,Chicago Rivet & Machine Co. Common Stock,"?25,462,409 ",United States,Consumer Non-Durables,Industrial Specialties
+BAC,1973/2/21,1982/12/29,4.625,2.4375,-2.1875,-47.30%,Bank of America Corporation Common Stock,"?333,000,000,000 ",United States,Finance,Major Banks
+BIO,1980/2/27,1982/12/29,2.546295881,1.314815044,-1.231480837,-48.36%,Bio-Rad Laboratories Inc. Class A Common Stock,"?15,701,658,477 ",United States,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+SMTC,1980/3/17,1982/12/29,1.15625,0.59375,-0.5625,-48.65%,Semtech Corporation Common Stock,"?4,033,745,558 ",United States,Technology,Semiconductors
+BHP,1980/3/17,1982/12/29,3.1448071,1.525699019,-1.619108081,-51.49%,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),"?176,000,000,000 ",Australia,Basic Industries,Precious Metals
+IHT,1973/2/21,1982/12/29,21.75,10.375,-11.375,-52.30%,InnSuites Hospitality Trust Shares of Beneficial Interest,"?29,463,026 ",United States,Consumer Services,Real Estate Investment Trusts
+BRID,1980/3/17,1982/12/29,0.571370006,0.272080988,-0.299289018,-52.38%,Bridgford Foods Corporation Common Stock,"?100,026,689 ",United States,Consumer Non-Durables,Specialty Foods
+UIS,1972/6/1,1982/12/29,310.625,142.0833282,-168.5416718,-54.26%,Unisys Corporation New Common Stock,"?1,403,134,887 ",United States,Technology,EDP Services
+CIA,1980/12/4,1982/12/29,4.18491888,1.859964013,-2.324954867,-55.56%,Citizens Inc. Class A Common Stock ($1.00 Par),"?211,604,691 ",United States,Finance,Life Insurance
+EDUC,1980/3/18,1982/12/29,0.25,0.109375,-0.140625,-56.25%,Educational Development Corporation Common Stock,"?71,138,208 ",United States,Consumer Services,Books
+PBT,1980/10/24,1982/12/29,22,9.5,-12.5,-56.82%,Permian Basin Royalty Trust Common Stock,"?613,371,755 ",United States,Energy,Oil & Gas Production
+NSSC,1981/12/29,1982/12/29,0.288066,0.123457,-0.164609,-57.14%,NAPCO Security Technologies Inc. Common Stock,"?737,940,978 ",United States,Miscellaneous,Diversified Manufacture
+HP,1980/10/15,1982/12/29,11.1875,4.71875,-6.46875,-57.82%,Helmerich & Payne Inc. Common Stock,"?4,417,693,618 ",United States,Energy,Oil & Gas Production
+TAP,1975/6/12,1982/12/29,15.25,6.1875,-9.0625,-59.43%,Molson Coors Beverage Company Class B Common Stock,"?11,272,287,838 ",Canada,Consumer Non-Durables,Beverages (Production/Distribution)
+GCO,1973/2/21,1982/12/29,12.5,4.375,-8.125,-65.00%,Genesco Inc. Common Stock,"?918,060,006 ",United States,,
+FSTR,1981/6/9,1982/12/29,17,5.875,-11.125,-65.44%,L.B. Foster Company Common Stock,"?169,665,530 ",United States,Basic Industries,Metal Fabrications
+BRT,1973/5/3,1982/12/29,22.5,7.5,-15,-66.67%,BRT Apartments Corp. (MD) Common Stock,"?419,618,805 ",United States,Consumer Services,Real Estate Investment Trusts
+IIN,1973/2/21,1982/12/29,3.083333015,1,-2.083333015,-67.57%,Intricon Corporation Common Stock,"?220,303,457 ",United States,Health Care,Medical/Dental Instruments
+XRX,1971/12/31,1982/12/29,55.00658798,16.63372993,-38.37285805,-69.76%,Xerox Holdings Corporation Common Stock,"?2,800,310,367 ",United States,Technology,EDP Services
+UUU,1981/11/12,1982/12/29,14.90625,4.5,-10.40625,-69.81%,Universal Security Instruments Inc. Common Stock,"?9,459,708 ",United States,Miscellaneous,Diversified Manufacture
+MTZ,1973/2/21,1982/12/29,13.5555563,4.05555582,-9.500000477,-70.08%,MasTec Inc. Common Stock,"?5,945,411,677 ",United States,Basic Industries,Water Sewer Pipeline Comm & Power Line Construction
+TEX,1980/3/19,1982/12/29,3.799999952,1.100000024,-2.699999928,-71.05%,Terex Corporation Common Stock,"?2,497,351,000 ",United States,Capital Goods,Construction/Ag Equipment/Trucks
+MXF,1981/6/4,1982/12/29,11.49615955,3.081444979,-8.414714575,-73.20%,Mexico Fund Inc. (The) Common Stock,"?221,777,211 ",United States,Finance,Trusts Except Educational Religious and Charitable
+LXU,1980/1/2,1982/12/29,2.307692051,0.576923013,-1.730769038,-75.00%,LSB Industries Inc. Common Stock,"?1,570,059,760 ",United States,Basic Industries,Industrial Specialties
+USEG,1980/3/17,1982/12/29,1725,262.5,-1462.5,-84.78%,U.S. Energy Corp. Common Stock,"?188,283,792 ",United States,Energy,Oil & Gas Production
+TISI,1980/10/7,1982/12/29,12.25,1.8125,-10.4375,-85.20%,Team Inc. Common Stock,"?50,449,787 ",United States,,
+ARTW,1980/3/17,1982/12/29,14,1.6875,-12.3125,-87.95%,Art's-Way Manufacturing Co. Inc. Common Stock,"?21,199,931 ",United States,Capital Goods,Industrial Machinery/Components
+GFF,1973/5/3,1982/12/29,20.45454407,1.818181992,-18.63636208,-91.11%,Griffon Corporation Common Stock,"?1,252,198,136 ",United States,,
+OBCI,1981/3/27,1982/12/29,1.402333975,0.093488999,-1.308844976,-93.33%,Ocean Bio-Chem Inc. Common Stock,"?83,854,463 ",United States,,
